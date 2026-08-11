@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<title>PromoZap — Escolha seus grupos de ofertas</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="Escolha os grupos de WhatsApp do PromoZap por assunto e receba só as ofertas que te interessam." />
+<link rel="icon" type="image/png" href="icon.png" />
+<style>
+  :root {
+    --font-heading: 'Helvetica Neue', 'SF Pro Display', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+    --font-body: 'Helvetica Neue', 'SF Pro Text', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+    --color-bg: #ffffff;
+    --color-surface: #f5f5f7;
+    --color-text: #1d1d1f;
+    --color-divider: #e2e2e5;
+    --color-neutral-600: #86868b;
+    --color-neutral-700: #6e6e73;
+    --color-whatsapp: #25d366;
+    --radius-md: 12px;
+    --radius-lg: 18px;
+    --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.06);
+    --shadow-md: 0 4px 14px rgba(0, 0, 0, 0.07);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --color-bg: #1c1c1e;
+      --color-surface: #2c2c2e;
+      --color-text: #f5f5f7;
+      --color-divider: #3a3a3c;
+      --color-neutral-600: #98989d;
+      --color-neutral-700: #aeaeb2;
+      --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
+      --shadow-md: 0 4px 14px rgba(0, 0, 0, 0.35);
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: var(--font-body);
+    background: var(--color-bg);
+    color: var(--color-text);
+    -webkit-font-smoothing: antialiased;
+    letter-spacing: -0.01em;
+  }
+  header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 28px 24px 0;
+  }
+  header img { border-radius: 8px; }
+  header strong { font-size: 16px; }
+  main { max-width: 880px; margin: 0 auto; padding: 48px 24px 40px; }
+  h1 {
+    font-family: var(--font-heading);
+    font-size: 34px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+    margin: 0 0 14px;
+  }
+  .lead {
+    font-size: 17px;
+    line-height: 1.55;
+    color: var(--color-neutral-700);
+    margin: 0 0 40px;
+    max-width: 620px;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 16px;
+  }
+  .card {
+    background: var(--color-surface);
+    border-radius: var(--radius-lg);
+    padding: 22px;
+    box-shadow: var(--shadow-sm);
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .card .emoji { font-size: 28px; line-height: 1; margin-bottom: 4px; }
+  .card h3 { font-size: 16px; font-weight: 600; margin: 0; }
+  .card p {
+    font-size: 13.5px;
+    line-height: 1.5;
+    color: var(--color-neutral-600);
+    margin: 0 0 14px;
+    flex-grow: 1;
+  }
+  .card a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    background: var(--color-whatsapp);
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 10px 16px;
+    border-radius: var(--radius-md);
+    transition: opacity 0.15s;
+  }
+  .card a:hover { opacity: 0.88; }
+  .card.destaque {
+    background: var(--color-text);
+    color: var(--color-bg);
+  }
+  .card.destaque p { color: var(--color-bg); opacity: 0.72; }
+  .card.destaque a { background: var(--color-bg); color: var(--color-text); }
+  footer {
+    max-width: 880px;
+    margin: 24px auto 0;
+    padding: 24px 24px 56px;
+    border-top: 1px solid var(--color-divider);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    font-size: 13px;
+    color: var(--color-neutral-600);
+  }
+  footer a { color: inherit; }
+</style>
+</head>
+<body>
+  <header>
+    <img src="icon.png" alt="PromoZap" width="30" height="30" />
+    <strong>PromoZap</strong>
+  </header>
+
+  <main>
+    <h1>Escolha os grupos que combinam com você</h1>
+    <p class="lead">
+      O PromoZap manda ofertas de verdade da Shopee e do Mercado Livre pro WhatsApp. Entra só nos grupos do seu
+      interesse — cada um recebe promoções só daquele assunto.
+    </p>
+
+    <div class="grid">
+      <div class="card destaque">
+        <div class="emoji">🔥</div>
+        <h3>Ofertas Selecionadas</h3>
+        <p>De tudo um pouco — as melhores promoções do dia, sem filtro de categoria.</p>
+        <a href="https://chat.whatsapp.com/DXdBE7GnbWYB1nk22PfkrF" target="_blank" rel="noopener">Entrar no grupo</a>
+      </div>
+      <div class="card">
+        <div class="emoji">💻</div>
+        <h3>Tech</h3>
+        <p>Celular, notebook, fone, gadgets e eletrônicos em geral.</p>
+        <a href="https://chat.whatsapp.com/IRWS1CE6gDJ5ItX1ryuTKz" target="_blank" rel="noopener">Entrar no grupo</a>
+      </div>
+      <div class="card">
+        <div class="emoji">🎮</div>
+        <h3>Geek</h3>
+        <p>Games, consoles, colecionáveis e cultura pop com desconto.</p>
+        <a href="https://chat.whatsapp.com/BywjjY5cpQlFwRZkMRwQHV" target="_blank" rel="noopener">Entrar no grupo</a>
+      </div>
+      <div class="card">
+        <div class="emoji">💪</div>
+        <h3>Fitness</h3>
+        <p>Suplemento, equipamento de academia e roupa esportiva.</p>
+        <a href="https://chat.whatsapp.com/GKPqZhgZ82L7lUpRSrwCIc" target="_blank" rel="noopener">Entrar no grupo</a>
+      </div>
+      <div class="card">
+        <div class="emoji">👗</div>
+        <h3>Moda</h3>
+        <p>Roupa, calçado, bolsa e acessório em promoção.</p>
+        <a href="https://chat.whatsapp.com/LJxbbEZXswbIf3CGjJWeQv" target="_blank" rel="noopener">Entrar no grupo</a>
+      </div>
+      <div class="card">
+        <div class="emoji">🏠</div>
+        <h3>Casa</h3>
+        <p>Utilidades domésticas, eletrodoméstico e decoração.</p>
+        <a href="https://chat.whatsapp.com/H3edb8FnGVCHjrThVftfH0" target="_blank" rel="noopener">Entrar no grupo</a>
+      </div>
+      <div class="card">
+        <div class="emoji">🧸</div>
+        <h3>Kids</h3>
+        <p>Produtos pra bebê e criança.</p>
+        <a href="https://chat.whatsapp.com/H39v37RDzpTJY0Q0BP16J9" target="_blank" rel="noopener">Entrar no grupo</a>
+      </div>
+      <div class="card">
+        <div class="emoji">🐶</div>
+        <h3>Pet</h3>
+        <p>Ração, brinquedo e acessório pro seu bichinho.</p>
+        <a href="https://chat.whatsapp.com/FhFUviLceyH4KuEDNlKFaP" target="_blank" rel="noopener">Entrar no grupo</a>
+      </div>
+      <div class="card">
+        <div class="emoji">💄</div>
+        <h3>Mulher</h3>
+        <p>Maquiagem, skincare, perfume e cuidados pessoais.</p>
+        <a href="https://chat.whatsapp.com/LqpFo3qU4OYHSrEaVsw7jD" target="_blank" rel="noopener">Entrar no grupo</a>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <span>&copy; PromoZap</span>
+    <a href="https://frontend-production-f558.up.railway.app/privacidade">Privacidade</a>
+    <a href="https://frontend-production-f558.up.railway.app/termos">Termos</a>
+    <a href="mailto:guilherme.nevescmp@gmail.com">Contato</a>
+  </footer>
+</body>
+</html>
