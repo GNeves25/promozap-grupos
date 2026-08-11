@@ -1,0 +1,65 @@
+[
+  {
+    "nichoChave": "ofertas",
+    "nome": "PromoZap — Ofertas Selecionadas",
+    "emoji": "🔥",
+    "descricao": "De tudo um pouco — as melhores promoções do dia, sem filtro de categoria.",
+    "link": "https://chat.whatsapp.com/DXdBE7GnbWYB1nk22PfkrF"
+  },
+  {
+    "nichoChave": "tech",
+    "nome": "PromoZap Tech",
+    "emoji": "💻",
+    "descricao": "Celular, notebook, fone, gadgets e eletrônicos em geral.",
+    "link": "https://chat.whatsapp.com/IRWS1CE6gDJ5ItX1ryuTKz"
+  },
+  {
+    "nichoChave": "geek",
+    "nome": "PromoZap Geek",
+    "emoji": "🎮",
+    "descricao": "Games, consoles, colecionáveis e cultura pop com desconto.",
+    "link": "https://chat.whatsapp.com/BywjjY5cpQlFwRZkMRwQHV"
+  },
+  {
+    "nichoChave": "fitness",
+    "nome": "PromoZap Fitness",
+    "emoji": "💪",
+    "descricao": "Suplemento, equipamento de academia e roupa esportiva.",
+    "link": "https://chat.whatsapp.com/GKPqZhgZ82L7lUpRSrwCIc"
+  },
+  {
+    "nichoChave": "moda",
+    "nome": "PromoZap Moda",
+    "emoji": "👗",
+    "descricao": "Roupa, calçado, bolsa e acessório em promoção.",
+    "link": "https://chat.whatsapp.com/LJxbbEZXswbIf3CGjJWeQv"
+  },
+  {
+    "nichoChave": "casa",
+    "nome": "PromoZap Casa",
+    "emoji": "🏠",
+    "descricao": "Utilidades domésticas, eletrodoméstico e decoração.",
+    "link": "https://chat.whatsapp.com/H3edb8FnGVCHjrThVftfH0"
+  },
+  {
+    "nichoChave": "kids",
+    "nome": "PromoZap Kids",
+    "emoji": "🧸",
+    "descricao": "Produtos pra bebê e criança.",
+    "link": "https://chat.whatsapp.com/H39v37RDzpTJY0Q0BP16J9"
+  },
+  {
+    "nichoChave": "pet",
+    "nome": "PromoZap Pet",
+    "emoji": "🐶",
+    "descricao": "Ração, brinquedo e acessório pro seu bichinho.",
+    "link": "https://chat.whatsapp.com/FhFUviLceyH4KuEDNlKFaP"
+  },
+  {
+    "nichoChave": "mulher",
+    "nome": "PromoZap Mulher",
+    "emoji": "💄",
+    "descricao": "Maquiagem, skincare, perfume e cuidados pessoais.",
+    "link": "https://chat.whatsapp.com/LqpFo3qU4OYHSrEaVsw7jD"
+  }
+]

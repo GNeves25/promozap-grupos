@@ -140,63 +140,40 @@
       interesse — cada um recebe promoções só daquele assunto.
     </p>
 
-    <div class="grid">
-      <div class="card destaque">
-        <div class="emoji">🔥</div>
-        <h3>Ofertas Selecionadas</h3>
-        <p>De tudo um pouco — as melhores promoções do dia, sem filtro de categoria.</p>
-        <a href="https://chat.whatsapp.com/DXdBE7GnbWYB1nk22PfkrF" target="_blank" rel="noopener">Entrar no grupo</a>
-      </div>
-      <div class="card">
-        <div class="emoji">💻</div>
-        <h3>Tech</h3>
-        <p>Celular, notebook, fone, gadgets e eletrônicos em geral.</p>
-        <a href="https://chat.whatsapp.com/IRWS1CE6gDJ5ItX1ryuTKz" target="_blank" rel="noopener">Entrar no grupo</a>
-      </div>
-      <div class="card">
-        <div class="emoji">🎮</div>
-        <h3>Geek</h3>
-        <p>Games, consoles, colecionáveis e cultura pop com desconto.</p>
-        <a href="https://chat.whatsapp.com/BywjjY5cpQlFwRZkMRwQHV" target="_blank" rel="noopener">Entrar no grupo</a>
-      </div>
-      <div class="card">
-        <div class="emoji">💪</div>
-        <h3>Fitness</h3>
-        <p>Suplemento, equipamento de academia e roupa esportiva.</p>
-        <a href="https://chat.whatsapp.com/GKPqZhgZ82L7lUpRSrwCIc" target="_blank" rel="noopener">Entrar no grupo</a>
-      </div>
-      <div class="card">
-        <div class="emoji">👗</div>
-        <h3>Moda</h3>
-        <p>Roupa, calçado, bolsa e acessório em promoção.</p>
-        <a href="https://chat.whatsapp.com/LJxbbEZXswbIf3CGjJWeQv" target="_blank" rel="noopener">Entrar no grupo</a>
-      </div>
-      <div class="card">
-        <div class="emoji">🏠</div>
-        <h3>Casa</h3>
-        <p>Utilidades domésticas, eletrodoméstico e decoração.</p>
-        <a href="https://chat.whatsapp.com/H3edb8FnGVCHjrThVftfH0" target="_blank" rel="noopener">Entrar no grupo</a>
-      </div>
-      <div class="card">
-        <div class="emoji">🧸</div>
-        <h3>Kids</h3>
-        <p>Produtos pra bebê e criança.</p>
-        <a href="https://chat.whatsapp.com/H39v37RDzpTJY0Q0BP16J9" target="_blank" rel="noopener">Entrar no grupo</a>
-      </div>
-      <div class="card">
-        <div class="emoji">🐶</div>
-        <h3>Pet</h3>
-        <p>Ração, brinquedo e acessório pro seu bichinho.</p>
-        <a href="https://chat.whatsapp.com/FhFUviLceyH4KuEDNlKFaP" target="_blank" rel="noopener">Entrar no grupo</a>
-      </div>
-      <div class="card">
-        <div class="emoji">💄</div>
-        <h3>Mulher</h3>
-        <p>Maquiagem, skincare, perfume e cuidados pessoais.</p>
-        <a href="https://chat.whatsapp.com/LqpFo3qU4OYHSrEaVsw7jD" target="_blank" rel="noopener">Entrar no grupo</a>
-      </div>
+    <div class="grid" id="grid">
+      <p class="lead">Carregando grupos…</p>
     </div>
   </main>
+
+  <script>
+    // Lista de grupos vem de grupos.json (não hardcoded) pra dar pra
+    // atualizar sozinho — quando um nicho satura no WhatsApp (~1024
+    // membros) e ganha um #2, o backend do PromoZap sobrescreve esse
+    // arquivo direto via API do GitHub (ver GrupoCapacidadeScheduler),
+    // sem precisar editar essa página à mão.
+    fetch('grupos.json')
+      .then((r) => r.json())
+      .then((grupos) => {
+        const grid = document.getElementById('grid');
+        grid.innerHTML = grupos
+          .map((g) => {
+            const destaque = g.nichoChave === 'ofertas';
+            const nomeCurto = g.nome.replace(/^PromoZap\s*[—-]?\s*/, '').trim();
+            return `
+              <div class="card${destaque ? ' destaque' : ''}">
+                <div class="emoji">${g.emoji}</div>
+                <h3>${nomeCurto}</h3>
+                <p>${g.descricao}</p>
+                <a href="${g.link}" target="_blank" rel="noopener">Entrar no grupo</a>
+              </div>
+            `;
+          })
+          .join('');
+      })
+      .catch(() => {
+        document.getElementById('grid').innerHTML = '<p class="lead">Não consegui carregar os grupos agora — tenta de novo daqui a pouco.</p>';
+      });
+  </script>
 
   <footer>
     <span>&copy; PromoZap</span>
