@@ -102,7 +102,7 @@
         <h2 style="font-family: var(--font-heading); font-weight: 900; font-size: clamp(28px, 7vw, 44px); line-height: 0.96; letter-spacing: -0.04em; margin: 0; text-transform: uppercase">Isso já<br />foi postado</h2>
         <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: rgba(243,242,242,0.55); white-space: nowrap; padding-bottom: 5px">Arraste →</div>
       </div>
-      <div class="pz-rail" id="pz-feed-rail" style="display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory; padding: 0 20px 28px; -webkit-overflow-scrolling: touch; scrollbar-width: none; -ms-overflow-style: none">
+      <div class="pz-rail" id="pz-feed-rail" style="display: flex; gap: 12px; overflow-x: auto; padding: 0 20px 28px; -webkit-overflow-scrolling: touch; scrollbar-width: none; -ms-overflow-style: none">
         <!-- cartões preenchidos via JS (renderFeed) -->
       </div>
     </div>
@@ -205,35 +205,119 @@
     });
   }
 
-  function renderFeed() {
-    var rail = document.getElementById('pz-feed-rail');
-    var cardsHtml = '';
-    for (var i = 1; i <= 5; i++) {
-      cardsHtml +=
-        '<div class="pz-feed-card" style="flex:none; width:246px; scroll-snap-align:start; display:flex; flex-direction:column; border:2px solid rgba(243,242,242,0.22); background:rgba(243,242,242,0.04);">' +
-          '<div style="display:flex; align-items:center; justify-content:space-between; gap:8px; padding:7px 10px; border-bottom:2px solid rgba(243,242,242,0.22); font-size:10px; letter-spacing:0.18em; text-transform:uppercase; color:rgba(243,242,242,0.6);">' +
-            '<span>' + String(i).padStart(2, '0') + ' / 05</span><span>&nbsp;</span>' +
+  function formatarPreco(v) {
+    return 'R$ ' + Number(v).toFixed(2).replace('.', ',');
+  }
+
+  function cardPlaceholder(i, total) {
+    return (
+      '<div class="pz-feed-card" style="flex:none; width:246px; scroll-snap-align:start; display:flex; flex-direction:column; border:2px solid rgba(243,242,242,0.22); background:rgba(243,242,242,0.04);">' +
+        '<div style="display:flex; align-items:center; justify-content:space-between; gap:8px; padding:7px 10px; border-bottom:2px solid rgba(243,242,242,0.22); font-size:10px; letter-spacing:0.18em; text-transform:uppercase; color:rgba(243,242,242,0.6);">' +
+          '<span>' + String(i).padStart(2, '0') + ' / ' + String(total).padStart(2, '0') + '</span><span>&nbsp;</span>' +
+        '</div>' +
+        '<div style="position:relative; width:100%; aspect-ratio:1/1; border-bottom:2px solid rgba(243,242,242,0.22); background:repeating-linear-gradient(45deg, rgba(243,242,242,0.05) 0 10px, transparent 10px 20px); display:flex; align-items:center; justify-content:center;">' +
+          '<span style="font-size:11px; letter-spacing:0.08em; text-transform:uppercase; color:rgba(243,242,242,0.35);">Em breve</span>' +
+        '</div>' +
+        '<div style="flex:1; display:flex; flex-direction:column; gap:10px; padding:12px;">' +
+          '<div style="flex:1; font-family:var(--font-heading); font-weight:800; font-size:13px; line-height:1.3; color:rgba(243,242,242,0.45);">Próximas ofertas postadas aparecem aqui</div>' +
+        '</div>' +
+      '</div>'
+    );
+  }
+
+  function cardOferta(oferta, i, total) {
+    var desconto = oferta.precoOriginal > 0
+      ? Math.round((1 - oferta.precoComDesconto / oferta.precoOriginal) * 100)
+      : 0;
+    var imagemHtml = oferta.imagemUrl
+      ? '<img src="' + oferta.imagemUrl + '" alt="" loading="lazy" style="width:100%; height:100%; object-fit:cover;" />'
+      : '<div style="width:100%; height:100%; background:repeating-linear-gradient(45deg, rgba(243,242,242,0.05) 0 10px, transparent 10px 20px);"></div>';
+
+    return (
+      '<a href="' + oferta.link + '" target="_blank" rel="noopener" class="pz-feed-card" style="flex:none; width:246px; scroll-snap-align:start; display:flex; flex-direction:column; border:2px solid rgba(243,242,242,0.22); background:rgba(243,242,242,0.04); text-decoration:none; color:inherit;">' +
+        '<div style="display:flex; align-items:center; justify-content:space-between; gap:8px; padding:7px 10px; border-bottom:2px solid rgba(243,242,242,0.22); font-size:10px; letter-spacing:0.18em; text-transform:uppercase; color:rgba(243,242,242,0.6);">' +
+          '<span>' + String(i).padStart(2, '0') + ' / ' + String(total).padStart(2, '0') + '</span>' +
+          '<span>' + oferta.marketplace + '</span>' +
+        '</div>' +
+        '<div style="position:relative; width:100%; aspect-ratio:1/1; border-bottom:2px solid rgba(243,242,242,0.22); overflow:hidden;">' +
+          imagemHtml +
+          (desconto > 0
+            ? '<div style="position:absolute; top:0; left:0; padding:6px 10px; background:var(--color-accent); color:var(--color-bg); font-family:var(--font-heading); font-weight:900; font-size:15px; letter-spacing:-0.02em; box-shadow:0 0 24px rgba(236,48,19,0.75);">-' + desconto + '%</div>'
+            : '') +
+        '</div>' +
+        '<div style="flex:1; display:flex; flex-direction:column; gap:10px; padding:12px;">' +
+          '<div style="flex:1; font-family:var(--font-heading); font-weight:800; font-size:15px; line-height:1.22; letter-spacing:-0.01em; color:var(--color-bg); display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;">' + oferta.titulo + '</div>' +
+          '<div style="display:flex; align-items:baseline; gap:8px; border-top:2px solid rgba(243,242,242,0.22); padding-top:9px;">' +
+            '<span style="font-family:var(--font-heading); font-weight:900; font-size:22px; line-height:1; letter-spacing:-0.04em; color:var(--color-accent-500); text-shadow:0 0 18px rgba(255,86,60,0.55);">' + formatarPreco(oferta.precoComDesconto) + '</span>' +
+            (oferta.precoOriginal > oferta.precoComDesconto
+              ? '<span style="font-size:11px; color:rgba(243,242,242,0.5); text-decoration:line-through;">' + formatarPreco(oferta.precoOriginal) + '</span>'
+              : '') +
           '</div>' +
-          '<div style="position:relative; width:100%; aspect-ratio:1/1; border-bottom:2px solid rgba(243,242,242,0.22); background:repeating-linear-gradient(45deg, rgba(243,242,242,0.05) 0 10px, transparent 10px 20px); display:flex; align-items:center; justify-content:center;">' +
-            '<span style="font-size:11px; letter-spacing:0.08em; text-transform:uppercase; color:rgba(243,242,242,0.35);">Em breve</span>' +
-          '</div>' +
-          '<div style="flex:1; display:flex; flex-direction:column; gap:10px; padding:12px;">' +
-            '<div style="flex:1; font-family:var(--font-heading); font-weight:800; font-size:13px; line-height:1.3; color:rgba(243,242,242,0.45);">Próximas ofertas postadas aparecem aqui</div>' +
-          '</div>' +
-        '</div>';
-    }
-    cardsHtml +=
+        '</div>' +
+      '</a>'
+    );
+  }
+
+  function ctaCard() {
+    return (
       '<a href="#pz-groups" style="flex:none; width:246px; scroll-snap-align:start; display:flex; flex-direction:column; justify-content:space-between; gap:20px; padding:16px; border:2px solid var(--color-accent); background:var(--color-accent); color:var(--color-bg); box-shadow:0 0 40px rgba(236,48,19,0.5); text-decoration:none;">' +
         '<div style="font-family:var(--font-heading); font-weight:900; font-size:23px; line-height:1.02; letter-spacing:-0.03em; text-transform:uppercase;">As de hoje estão no grupo, não aqui.</div>' +
         '<div style="display:flex; align-items:center; gap:8px; font-size:12px; font-weight:700; letter-spacing:0.1em; text-transform:uppercase;">' +
           '<span>Escolher grupo</span>' +
           '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="square"><path d="M5 12h14M13 6l6 6-6 6"></path></svg>' +
         '</div>' +
-      '</a>';
-    rail.innerHTML = cardsHtml;
+      '</a>'
+    );
   }
 
-  renderFeed();
+  var pzCarrosselIniciado = false;
+
+  function renderFeed(ofertas) {
+    var rail = document.getElementById('pz-feed-rail');
+    var lista = (ofertas && ofertas.length ? ofertas : [null, null, null, null, null]).slice(0, 5);
+    var cardsHtml = lista.map(function (oferta, idx) {
+      return oferta ? cardOferta(oferta, idx + 1, lista.length) : cardPlaceholder(idx + 1, lista.length);
+    }).join('') + ctaCard();
+    // Duplica o conteúdo pra rolagem infinita: ao passar da metade,
+    // volta pro início sem corte visível (a segunda metade é idêntica).
+    rail.innerHTML = cardsHtml + cardsHtml;
+    rail.scrollLeft = 0;
+    if (!pzCarrosselIniciado) {
+      pzCarrosselIniciado = true;
+      iniciarCarrosselAutoScroll(rail);
+    }
+  }
+
+  function iniciarCarrosselAutoScroll(rail) {
+    var pausado = false;
+    var ultimoTs = null;
+    var pxPorMs = 0.03;
+
+    ['mouseenter', 'pointerdown', 'touchstart'].forEach(function (ev) {
+      rail.addEventListener(ev, function () { pausado = true; }, { passive: true });
+    });
+    ['mouseleave', 'pointerup', 'touchend'].forEach(function (ev) {
+      rail.addEventListener(ev, function () { pausado = false; }, { passive: true });
+    });
+
+    function passo(ts) {
+      if (ultimoTs === null) ultimoTs = ts;
+      var delta = ts - ultimoTs;
+      ultimoTs = ts;
+
+      if (!pausado) {
+        var metade = rail.scrollWidth / 2;
+        if (metade > 0) {
+          rail.scrollLeft += pxPorMs * delta;
+          if (rail.scrollLeft >= metade) rail.scrollLeft -= metade;
+        }
+      }
+      requestAnimationFrame(passo);
+    }
+    requestAnimationFrame(passo);
+  }
+
+  renderFeed(null);
 
   fetch('grupos.json')
     .then(function (r) { return r.json(); })
@@ -241,6 +325,11 @@
     .catch(function () {
       document.getElementById('pz-groups').innerHTML = '<p style="padding:20px; color:var(--color-neutral-600);">Não consegui carregar os grupos agora — tenta de novo daqui a pouco.</p>';
     });
+
+  fetch('ultimas-ofertas.json')
+    .then(function (r) { return r.ok ? r.json() : []; })
+    .then(function (ofertas) { renderFeed(ofertas); })
+    .catch(function () { /* mantém o placeholder já renderizado */ });
 </script>
 </body>
 </html>
