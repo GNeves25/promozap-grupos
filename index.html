@@ -291,13 +291,18 @@
   function iniciarCarrosselAutoScroll(rail) {
     var pausado = false;
     var ultimoTs = null;
-    var pxPorMs = 0.03;
+    var pxPorMs = 0.05;
+    // Acumulador próprio: rail.scrollLeft arredonda pro inteiro a cada
+    // leitura, então incrementos menores que 1px somem se a gente ler o
+    // valor de volta do elemento a cada frame. Guardando a posição aqui
+    // (float) evita que o avanço fique preso em 0.
+    var posicao = rail.scrollLeft;
 
     ['mouseenter', 'pointerdown', 'touchstart'].forEach(function (ev) {
       rail.addEventListener(ev, function () { pausado = true; }, { passive: true });
     });
     ['mouseleave', 'pointerup', 'touchend'].forEach(function (ev) {
-      rail.addEventListener(ev, function () { pausado = false; }, { passive: true });
+      rail.addEventListener(ev, function () { posicao = rail.scrollLeft; pausado = false; }, { passive: true });
     });
 
     function passo(ts) {
@@ -308,8 +313,9 @@
       if (!pausado) {
         var metade = rail.scrollWidth / 2;
         if (metade > 0) {
-          rail.scrollLeft += pxPorMs * delta;
-          if (rail.scrollLeft >= metade) rail.scrollLeft -= metade;
+          posicao += pxPorMs * delta;
+          if (posicao >= metade) posicao -= metade;
+          rail.scrollLeft = posicao;
         }
       }
       requestAnimationFrame(passo);
