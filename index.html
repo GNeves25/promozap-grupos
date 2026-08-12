@@ -6,180 +6,241 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="description" content="Escolha os grupos de WhatsApp do PromoZap por assunto e receba só as ofertas que te interessam." />
 <link rel="icon" type="image/png" href="icon.png" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
 <style>
   :root {
-    --font-heading: 'Helvetica Neue', 'SF Pro Display', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
-    --font-body: 'Helvetica Neue', 'SF Pro Text', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
-    --color-bg: #ffffff;
-    --color-surface: #f5f5f7;
-    --color-text: #1d1d1f;
-    --color-divider: #e2e2e5;
-    --color-neutral-600: #86868b;
-    --color-neutral-700: #6e6e73;
-    --color-whatsapp: #25d366;
-    --radius-md: 12px;
-    --radius-lg: 18px;
-    --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.06);
-    --shadow-md: 0 4px 14px rgba(0, 0, 0, 0.07);
+    --color-bg: #f3f2f2;
+    --color-surface: #eae9e9;
+    --color-text: #201e1d;
+    --color-accent: #ec3013;
+    --color-divider: rgba(32, 30, 29, 0.4);
+
+    --color-neutral-500: #9b9797;
+    --color-neutral-600: #7d7979;
+    --color-neutral-700: #605d5d;
+
+    --color-accent-100: #fff2ef;
+    --color-accent-400: #ff9783;
+    --color-accent-500: #ff563c;
+    --color-accent-600: #dd2b0f;
+    --color-accent-700: #ae1800;
+    --color-accent-800: #7c1405;
+
+    --font-heading: "Archivo", system-ui, sans-serif;
+    --font-body: "Archivo", system-ui, sans-serif;
   }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --color-bg: #1c1c1e;
-      --color-surface: #2c2c2e;
-      --color-text: #f5f5f7;
-      --color-divider: #3a3a3c;
-      --color-neutral-600: #98989d;
-      --color-neutral-700: #aeaeb2;
-      --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
-      --shadow-md: 0 4px 14px rgba(0, 0, 0, 0.35);
-    }
-  }
+
   * { box-sizing: border-box; }
-  body {
-    margin: 0;
-    font-family: var(--font-body);
-    background: var(--color-bg);
-    color: var(--color-text);
-    -webkit-font-smoothing: antialiased;
-    letter-spacing: -0.01em;
-  }
-  header {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    max-width: 880px;
-    margin: 0 auto;
-    padding: 28px 24px 0;
-  }
-  header img { border-radius: 8px; }
-  header strong { font-size: 16px; }
-  main { max-width: 880px; margin: 0 auto; padding: 48px 24px 40px; }
-  h1 {
-    font-family: var(--font-heading);
-    font-size: 34px;
-    font-weight: 600;
-    letter-spacing: -0.02em;
-    line-height: 1.15;
-    margin: 0 0 14px;
-  }
-  .lead {
-    font-size: 17px;
-    line-height: 1.55;
-    color: var(--color-neutral-700);
-    margin: 0 0 40px;
-    max-width: 620px;
-  }
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-    gap: 16px;
-  }
-  .card {
-    background: var(--color-surface);
-    border-radius: var(--radius-lg);
-    padding: 22px;
-    box-shadow: var(--shadow-sm);
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-  }
-  .card .emoji { font-size: 28px; line-height: 1; margin-bottom: 4px; }
-  .card h3 { font-size: 16px; font-weight: 600; margin: 0; }
-  .card p {
-    font-size: 13.5px;
-    line-height: 1.5;
-    color: var(--color-neutral-600);
-    margin: 0 0 14px;
-    flex-grow: 1;
-  }
-  .card a {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
-    background: var(--color-whatsapp);
-    color: #fff;
-    text-decoration: none;
-    font-size: 14px;
-    font-weight: 600;
-    padding: 10px 16px;
-    border-radius: var(--radius-md);
-    transition: opacity 0.15s;
-  }
-  .card a:hover { opacity: 0.88; }
-  .card.destaque {
-    background: var(--color-text);
-    color: var(--color-bg);
-  }
-  .card.destaque p { color: var(--color-bg); opacity: 0.72; }
-  .card.destaque a { background: var(--color-bg); color: var(--color-text); }
-  footer {
-    max-width: 880px;
-    margin: 24px auto 0;
-    padding: 24px 24px 56px;
-    border-top: 1px solid var(--color-divider);
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    font-size: 13px;
-    color: var(--color-neutral-600);
-  }
-  footer a { color: inherit; }
+  html, body { margin: 0; padding: 0; background: var(--color-bg); }
+  body { color: var(--color-text); font-family: var(--font-body); -webkit-font-smoothing: antialiased; }
+  a { color: var(--color-accent-700); }
+  a:hover { color: var(--color-accent); }
+  button { font-family: inherit; }
+
+  @keyframes pz-pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+  .pz-rail::-webkit-scrollbar { width: 0; height: 0; display: none; }
+
+  .pz-group-row { transition: background 0.12s; }
+  .pz-group-row:hover { background: var(--color-accent-100); }
+  .pz-feed-card { transition: border-color 0.15s, transform 0.15s; }
+  .pz-feed-card:hover { border-color: var(--color-accent); transform: translateY(-4px); }
 </style>
 </head>
 <body>
-  <header>
-    <img src="icon.png" alt="PromoZap" width="30" height="30" />
-    <strong>PromoZap</strong>
-  </header>
 
-  <main>
-    <h1>Escolha os grupos que combinam com você</h1>
-    <p class="lead">
-      O PromoZap manda ofertas de verdade da Shopee e do Mercado Livre pro WhatsApp. Entra só nos grupos do seu
-      interesse — cada um recebe promoções só daquele assunto.
-    </p>
+<div style="min-height: 100%; background: var(--color-bg); color: var(--color-text); font-family: var(--font-body)">
 
-    <div class="grid" id="grid">
-      <p class="lead">Carregando grupos…</p>
+  <div style="background: var(--color-accent); color: var(--color-bg)">
+    <div style="max-width: 760px; margin: 0 auto; padding: 9px 20px; display: flex; align-items: center; gap: 10px; font-size: 12px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase">
+      <span style="width: 8px; height: 8px; flex: none; background: var(--color-bg); animation: pz-pulse 1.6s ease-in-out infinite; border-radius: 50%"></span>
+      <span style="min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap">Grupos abertos agora — entre antes de lotar</span>
     </div>
-  </main>
+  </div>
 
-  <script>
-    // Lista de grupos vem de grupos.json (não hardcoded) pra dar pra
-    // atualizar sozinho — quando um nicho satura no WhatsApp (~1024
-    // membros) e ganha um #2, o backend do PromoZap sobrescreve esse
-    // arquivo direto via API do GitHub (ver GrupoCapacidadeScheduler),
-    // sem precisar editar essa página à mão.
-    fetch('grupos.json')
-      .then((r) => r.json())
-      .then((grupos) => {
-        const grid = document.getElementById('grid');
-        grid.innerHTML = grupos
-          .map((g) => {
-            const destaque = g.nichoChave === 'ofertas';
-            const nomeCurto = g.nome.replace(/^PromoZap\s*[—-]?\s*/, '').trim();
-            return `
-              <div class="card${destaque ? ' destaque' : ''}">
-                <div class="emoji">${g.emoji}</div>
-                <h3>${nomeCurto}</h3>
-                <p>${g.descricao}</p>
-                <a href="${g.link}" target="_blank" rel="noopener">Entrar no grupo</a>
-              </div>
-            `;
-          })
-          .join('');
-      })
-      .catch(() => {
-        document.getElementById('grid').innerHTML = '<p class="lead">Não consegui carregar os grupos agora — tenta de novo daqui a pouco.</p>';
+  <div style="max-width: 760px; margin: 0 auto; border-left: 2px solid var(--color-divider); border-right: 2px solid var(--color-divider); min-height: 100vh; background: var(--color-bg)">
+
+    <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 14px 20px; border-bottom: 2px solid var(--color-divider)">
+      <div style="display:flex; align-items:center; gap:8px;">
+        <img src="icon.png" alt="" width="22" height="22" style="border-radius:5px;" />
+        <span style="font-family: var(--font-heading); font-weight: 900; font-size: 17px; letter-spacing: -0.02em; text-transform: uppercase">PromoZap</span>
+      </div>
+      <div style="display: flex; align-items: center; gap: 8px; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-neutral-700)">
+        <span style="width: 8px; height: 8px; background: var(--color-accent); animation: pz-pulse 1.6s ease-in-out infinite; border-radius: 50%"></span>
+        <span>Postando agora</span>
+      </div>
+    </div>
+
+    <div style="padding: 36px 20px 28px">
+      <div style="font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--color-accent-700); margin-bottom: 18px">Grupos de promoção no WhatsApp</div>
+      <h1 style="font-family: var(--font-heading); font-weight: 900; font-size: clamp(38px, 9vw, 62px); line-height: 0.94; letter-spacing: -0.035em; margin: 0 0 20px; text-wrap: balance">O preço caiu.<br />Quem estava no grupo comprou.</h1>
+      <p style="font-size: 17px; line-height: 1.45; margin: 0; max-width: 46ch; color: var(--color-neutral-700); text-wrap: pretty">Ofertas reais de Shopee e Mercado Livre, o dia inteiro. Toque na categoria que você compra e entre no grupo.</p>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); border-top: 2px solid var(--color-divider); border-bottom: 2px solid var(--color-divider)">
+      <div style="padding: 16px 14px; border-right: 2px solid var(--color-divider)">
+        <div style="font-family: var(--font-heading); font-weight: 900; font-size: 26px; line-height: 1; letter-spacing: -0.03em">9</div>
+        <div style="font-size: 11px; line-height: 1.3; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-neutral-700); margin-top: 6px">Grupos por categoria</div>
+      </div>
+      <div style="padding: 16px 14px; border-right: 2px solid var(--color-divider)">
+        <div style="font-family: var(--font-heading); font-weight: 900; font-size: 26px; line-height: 1; letter-spacing: -0.03em">1.024</div>
+        <div style="font-size: 11px; line-height: 1.3; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-neutral-700); margin-top: 6px">Vagas por grupo — limite do WhatsApp</div>
+      </div>
+      <div style="padding: 16px 14px">
+        <div style="font-family: var(--font-heading); font-weight: 900; font-size: 26px; line-height: 1; letter-spacing: -0.03em">R$ 0</div>
+        <div style="font-size: 11px; line-height: 1.3; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-neutral-700); margin-top: 6px">Entrar e sair quando quiser</div>
+      </div>
+    </div>
+
+    <div style="border-top: 2px solid var(--color-text); border-bottom: 2px solid var(--color-text); background: var(--color-text); background-image: repeating-linear-gradient(90deg, rgba(243,242,242,0.07) 0 1px, transparent 1px 64px), repeating-linear-gradient(0deg, rgba(243,242,242,0.07) 0 1px, transparent 1px 64px); color: var(--color-bg); overflow: hidden">
+      <div style="display: flex; align-items: center; gap: 10px; padding: 10px 20px; border-bottom: 2px solid rgba(243,242,242,0.22); font-size: 10px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--color-accent-400)">
+        <span style="width: 7px; height: 7px; flex: none; background: var(--color-accent); box-shadow: 0 0 12px var(--color-accent); animation: pz-pulse 1.2s ease-in-out infinite; border-radius: 50%"></span>
+        <span style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis">Feed ao vivo — últimas 24 horas</span>
+      </div>
+      <div style="display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; padding: 26px 20px 18px">
+        <h2 style="font-family: var(--font-heading); font-weight: 900; font-size: clamp(28px, 7vw, 44px); line-height: 0.96; letter-spacing: -0.04em; margin: 0; text-transform: uppercase">Isso já<br />foi postado</h2>
+        <div style="font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: rgba(243,242,242,0.55); white-space: nowrap; padding-bottom: 5px">Arraste →</div>
+      </div>
+      <div class="pz-rail" id="pz-feed-rail" style="display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory; padding: 0 20px 28px; -webkit-overflow-scrolling: touch; scrollbar-width: none; -ms-overflow-style: none">
+        <!-- cartões preenchidos via JS (renderFeed) -->
+      </div>
+    </div>
+
+    <div style="display: flex; align-items: baseline; justify-content: space-between; gap: 12px; padding: 26px 20px 12px">
+      <h2 style="font-family: var(--font-heading); font-weight: 900; font-size: 15px; letter-spacing: 0.1em; text-transform: uppercase; margin: 0">Escolha seus grupos</h2>
+      <span style="font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-neutral-600); white-space: nowrap">Toque para entrar</span>
+    </div>
+
+    <div id="pz-groups" style="border-top: 2px solid var(--color-divider)">
+      <p style="padding: 20px; color: var(--color-neutral-600);">Carregando grupos…</p>
+    </div>
+
+    <div style="border-top: 2px solid var(--color-divider); background: var(--color-accent); color: var(--color-bg); padding: 40px 20px 44px">
+      <div style="font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; opacity: 0.8; margin-bottom: 16px">Sem pegadinha</div>
+      <p style="font-family: var(--font-heading); font-weight: 900; font-size: clamp(26px, 6.5vw, 40px); line-height: 1.02; letter-spacing: -0.03em; margin: 0 0 18px; max-width: 20ch">Ninguém manda mensagem no seu privado. Só o grupo posta.</p>
+      <p style="font-size: 15px; line-height: 1.45; margin: 0; max-width: 42ch; opacity: 0.92">Você não paga nada, não cadastra nada e sai com dois toques. O que custa é ficar de fora do grupo no dia em que a oferta boa aparece.</p>
+    </div>
+
+    <div style="padding: 22px 20px 30px; display: flex; flex-wrap: wrap; gap: 6px 18px; align-items: center; font-size: 12px; color: var(--color-neutral-700)">
+      <span>© PromoZap</span>
+      <a href="privacidade.html" style="color: var(--color-neutral-700)">Privacidade</a>
+      <a href="termos.html" style="color: var(--color-neutral-700)">Termos</a>
+      <a href="mailto:guilherme.nevescmp@gmail.com" style="color: var(--color-neutral-700)">Contato</a>
+    </div>
+
+  </div>
+
+</div>
+
+<script>
+  // emoji por nicho — só cosmético, não vem do grupos.json
+  var EMOJI = { ofertas: '🔥', tech: '💻', geek: '🎮', fitness: '💪', moda: '👗', casa: '🏠', kids: '🧸', pet: '🐶', mulher: '💄' };
+
+  function carregarJoined() {
+    try {
+      var j = localStorage.getItem('promozap.joined');
+      return j ? JSON.parse(j) : [];
+    } catch (e) { return []; }
+  }
+
+  function salvarJoined(joined) {
+    try { localStorage.setItem('promozap.joined', JSON.stringify(joined)); } catch (e) {}
+  }
+
+  function entrar(nichoChave, link, joined, onJoined) {
+    window.open(link, '_blank', 'noopener');
+    if (joined.indexOf(nichoChave) === -1) {
+      joined.push(nichoChave);
+      salvarJoined(joined);
+      onJoined();
+    }
+  }
+
+  function renderGroups(grupos) {
+    var joined = carregarJoined();
+    var container = document.getElementById('pz-groups');
+    container.innerHTML = '';
+
+    grupos.forEach(function (g, i) {
+      var isJoined = joined.indexOf(g.nichoChave) !== -1;
+      var isDestaque = g.nichoChave === 'ofertas';
+      var tagLabel = isJoined ? 'Você entrou' : (isDestaque ? 'Mais entram aqui' : '');
+
+      var row = document.createElement('div');
+      row.setAttribute('role', 'button');
+      row.setAttribute('tabindex', '0');
+      row.className = 'pz-group-row';
+      row.style.cssText = 'display:flex; align-items:flex-start; gap:14px; padding:16px 20px; cursor:pointer; border-bottom:2px solid var(--color-divider);';
+
+      var num = String(i + 1).padStart(2, '0');
+      var tagHtml = tagLabel
+        ? '<span style="font-size:10px; letter-spacing:0.1em; text-transform:uppercase; padding:3px 7px; font-weight:700; background:' +
+          (isJoined ? 'var(--color-text); color:var(--color-bg)' : 'var(--color-accent); color:var(--color-bg)') + ';">' + tagLabel + '</span>'
+        : '';
+
+      row.innerHTML =
+        '<div style="flex:none; width:30px; font-family:var(--font-heading); font-weight:900; font-size:13px; letter-spacing:0.04em; color:var(--color-neutral-500); padding-top:5px;">' + num + '</div>' +
+        '<div style="flex:1; min-width:0;">' +
+          '<div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">' +
+            '<span style="font-size:20px; line-height:1;">' + (EMOJI[g.nichoChave] || '🛍️') + '</span>' +
+            '<span style="font-family:var(--font-heading); font-weight:800; font-size:18px; letter-spacing:-0.02em;">' + g.nome.replace(/^PromoZap\s*[—-]?\s*/, '') + '</span>' +
+            tagHtml +
+          '</div>' +
+          '<div style="font-size:13.5px; line-height:1.35; color:var(--color-neutral-700); margin-top:3px;">' + g.descricao + '</div>' +
+        '</div>' +
+        '<div style="flex:none; display:flex; align-items:center; gap:7px; align-self:center; padding:9px 12px; border:2px solid var(--color-accent); background:var(--color-accent); color:var(--color-bg); font-family:var(--font-heading); font-weight:800; font-size:13px; letter-spacing:0.04em;">' +
+          '<span>Entrar</span>' +
+          '<svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="square"><path d="M5 12h14M13 6l6 6-6 6"></path></svg>' +
+        '</div>';
+
+      row.addEventListener('click', function () {
+        entrar(g.nichoChave, g.link, joined, function () { renderGroups(grupos); });
       });
-  </script>
+      row.addEventListener('keydown', function (ev) {
+        if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); row.click(); }
+      });
 
-  <footer>
-    <span>&copy; PromoZap</span>
-    <a href="https://frontend-production-f558.up.railway.app/privacidade">Privacidade</a>
-    <a href="https://frontend-production-f558.up.railway.app/termos">Termos</a>
-    <a href="mailto:guilherme.nevescmp@gmail.com">Contato</a>
-  </footer>
+      container.appendChild(row);
+    });
+  }
+
+  function renderFeed() {
+    var rail = document.getElementById('pz-feed-rail');
+    var cardsHtml = '';
+    for (var i = 1; i <= 5; i++) {
+      cardsHtml +=
+        '<div class="pz-feed-card" style="flex:none; width:246px; scroll-snap-align:start; display:flex; flex-direction:column; border:2px solid rgba(243,242,242,0.22); background:rgba(243,242,242,0.04);">' +
+          '<div style="display:flex; align-items:center; justify-content:space-between; gap:8px; padding:7px 10px; border-bottom:2px solid rgba(243,242,242,0.22); font-size:10px; letter-spacing:0.18em; text-transform:uppercase; color:rgba(243,242,242,0.6);">' +
+            '<span>' + String(i).padStart(2, '0') + ' / 05</span><span>&nbsp;</span>' +
+          '</div>' +
+          '<div style="position:relative; width:100%; aspect-ratio:1/1; border-bottom:2px solid rgba(243,242,242,0.22); background:repeating-linear-gradient(45deg, rgba(243,242,242,0.05) 0 10px, transparent 10px 20px); display:flex; align-items:center; justify-content:center;">' +
+            '<span style="font-size:11px; letter-spacing:0.08em; text-transform:uppercase; color:rgba(243,242,242,0.35);">Em breve</span>' +
+          '</div>' +
+          '<div style="flex:1; display:flex; flex-direction:column; gap:10px; padding:12px;">' +
+            '<div style="flex:1; font-family:var(--font-heading); font-weight:800; font-size:13px; line-height:1.3; color:rgba(243,242,242,0.45);">Próximas ofertas postadas aparecem aqui</div>' +
+          '</div>' +
+        '</div>';
+    }
+    cardsHtml +=
+      '<a href="#pz-groups" style="flex:none; width:246px; scroll-snap-align:start; display:flex; flex-direction:column; justify-content:space-between; gap:20px; padding:16px; border:2px solid var(--color-accent); background:var(--color-accent); color:var(--color-bg); box-shadow:0 0 40px rgba(236,48,19,0.5); text-decoration:none;">' +
+        '<div style="font-family:var(--font-heading); font-weight:900; font-size:23px; line-height:1.02; letter-spacing:-0.03em; text-transform:uppercase;">As de hoje estão no grupo, não aqui.</div>' +
+        '<div style="display:flex; align-items:center; gap:8px; font-size:12px; font-weight:700; letter-spacing:0.1em; text-transform:uppercase;">' +
+          '<span>Escolher grupo</span>' +
+          '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="square"><path d="M5 12h14M13 6l6 6-6 6"></path></svg>' +
+        '</div>' +
+      '</a>';
+    rail.innerHTML = cardsHtml;
+  }
+
+  renderFeed();
+
+  fetch('grupos.json')
+    .then(function (r) { return r.json(); })
+    .then(function (grupos) { renderGroups(grupos); })
+    .catch(function () {
+      document.getElementById('pz-groups').innerHTML = '<p style="padding:20px; color:var(--color-neutral-600);">Não consegui carregar os grupos agora — tenta de novo daqui a pouco.</p>';
+    });
+</script>
 </body>
 </html>
