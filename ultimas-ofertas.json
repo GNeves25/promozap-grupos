@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Conjunto de c\u00EDlios 3D MIOFIA 10-18mm, estilo misto, indicado para iniciantes.",
-    "marketplace": "Shopee",
-    "precoOriginal": 27.08,
-    "precoComDesconto": 13,
-    "imagemUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhzxasww06bl22",
-    "link": "https://s.shopee.com.br/LmPpjtzLB"
-  },
-  {
     "titulo": "Furadeira Parafusadeira 26V Sem Fio: Alta Pot\u00EAncia, Recarreg\u00E1vel para Demanda Dom\u00E9stica",
     "marketplace": "Shopee",
     "precoOriginal": 199.6,
@@ -32,14 +24,6 @@
     "link": "https://s.shopee.com.br/5q7MaD6sCe"
   },
   {
-    "titulo": "Babuche Infantil/Sand\u00E1lias infantis meninas Chinelo casual beb\u00EA t\u00EAnis de aprendizado Leve e macio",
-    "marketplace": "Shopee",
-    "precoOriginal": 58,
-    "precoComDesconto": 29,
-    "imagemUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mqukkzy1u29t90",
-    "link": "https://s.shopee.com.br/gPGELseP9"
-  },
-  {
     "titulo": "Pulseira Bracelete Luxo S\u00E3o Bento Ajust\u00E1vel Dourada Cabo de A\u00E7o Inoxid\u00E1vel 316L",
     "marketplace": "Shopee",
     "precoOriginal": 99.9,
@@ -62,5 +46,21 @@
     "precoComDesconto": 34.92,
     "imagemUrl": "https://http2.mlstatic.com/D_832178-MLA104025936094_012026-O.jpg",
     "link": "https://meli.la/17CfFwT"
+  },
+  {
+    "titulo": "Kit 10 Potes Herm\u00E9ticos Vidro 640ml Starhouse Marmita Forno Micro-ondas Airfryer com 4 travas de super veda\u00E7\u00E3o",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 189.99,
+    "precoComDesconto": 95,
+    "imagemUrl": "https://http2.mlstatic.com/D_942823-MLA113526261849_062026-O.jpg",
+    "link": "https://www.mercadolivre.com.br/kit-10-potes-hermeticos-vidro-640ml-starhouse-marmita-forno-micro-ondas-airfryer-com-4-travas-de-super-vedacao/p/MLB53222689"
+  },
+  {
+    "titulo": "Frigideira Cer\u00E2mica 24cm Grande Premium Antiaderente Fog\u00E3o Cooktop Indu\u00E7\u00E3o El\u00E9trico G\u00E1s Panela Frita Sem \u00D3leo N\u00E3o Gruda",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 121.37,
+    "precoComDesconto": 60,
+    "imagemUrl": "https://http2.mlstatic.com/D_742705-MLA110972923688_052026-O.jpg",
+    "link": "https://www.mercadolivre.com.br/frigideira-ceramica-24cm-grande-premium-antiaderente-fogao-cooktop-inducao-eletrico-gas-panela-frita-sem-oleo-nao-gruda/p/MLB70041764"
   }
 ]
