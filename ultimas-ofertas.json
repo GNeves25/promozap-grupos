@@ -8,14 +8,6 @@
     "link": "https://meli.la/2Gvb79J"
   },
   {
-    "titulo": "Jogo Talheres Faqueiro B\u00FAzios A\u00E7o Inox 24 Pe\u00E7as Tramontina",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 129.9,
-    "precoComDesconto": 57.85,
-    "imagemUrl": "https://http2.mlstatic.com/D_885228-MLA105354697197_012026-O.jpg",
-    "link": "https://meli.la/2CrKe6d"
-  },
-  {
     "titulo": "Essencial Exclusivo Floral Deo Parfum Feminino - Natura",
     "marketplace": "Mercado Livre",
     "precoOriginal": 279.9,
@@ -62,5 +54,13 @@
     "precoComDesconto": 1234,
     "imagemUrl": "https://http2.mlstatic.com/D_896967-MLA89218241898_082025-O.jpg",
     "link": "https://meli.la/1Pxd2iR"
+  },
+  {
+    "titulo": "Livro Tempestade de \u00D4nix de Rebecca Yarros Capa Mole 2025 Editora Planeta Minotauro",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 109.9,
+    "precoComDesconto": 54.51,
+    "imagemUrl": "https://http2.mlstatic.com/D_704328-MLA113420574459_062026-O.jpg",
+    "link": "https://meli.la/1Jo6QSU"
   }
 ]
