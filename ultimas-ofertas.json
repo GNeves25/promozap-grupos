@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Kit Calcinhas Tanga Confort\u00E1vel Sem Costura Poliamida N\u00E3o Marca",
-    "marketplace": "Shopee",
-    "precoOriginal": 49.97,
-    "precoComDesconto": 14.99,
-    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-8260k-mlfc54jf2pdvb9",
-    "link": "https://s.shopee.com.br/7fZ2A89tg0"
-  },
-  {
     "titulo": "Torneira Gourmet Flex\u00EDvel Cozinha Parede Vertical Preto Prata ES",
     "marketplace": "Shopee",
     "precoOriginal": 39.58,
@@ -62,5 +54,13 @@
     "precoComDesconto": 32.9,
     "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-7rdwr-lxvke8nwa1dya6",
     "link": "https://s.shopee.com.br/7VFbxpAX11"
+  },
+  {
+    "titulo": "Kit 12 Potes Herm\u00E9ticos Com Travas Pl\u00E1stico Cinza Plas\u00FAtil",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 214.9,
+    "precoComDesconto": 114,
+    "imagemUrl": "https://http2.mlstatic.com/D_835129-MLA95836789811_102025-O.jpg",
+    "link": "https://meli.la/2UdCx2d"
   }
 ]
