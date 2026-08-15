@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Torneira Gourmet Flex\u00EDvel Cozinha Parede Vertical Preto Prata ES",
-    "marketplace": "Shopee",
-    "precoOriginal": 39.58,
-    "precoComDesconto": 19,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134211-81ztk-mko4906795oi61",
-    "link": "https://s.shopee.com.br/5LB7NqEW9i"
-  },
-  {
     "titulo": "Sandalia Babuche Infantil Papete Bluey e Bingo Confortavel Leve",
     "marketplace": "Shopee",
     "precoOriginal": 49.90,
@@ -62,5 +54,13 @@
     "precoComDesconto": 114,
     "imagemUrl": "https://http2.mlstatic.com/D_835129-MLA95836789811_102025-O.jpg",
     "link": "https://meli.la/2UdCx2d"
+  },
+  {
+    "titulo": "Assento Sanit\u00E1rio Almofadado Com Tampa De Vaso Banheiro Universal Oval P\u00EDtia",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 78.99,
+    "precoComDesconto": 38.99,
+    "imagemUrl": "https://http2.mlstatic.com/D_809272-MLA109094988005_032026-O.jpg",
+    "link": "https://www.mercadolivre.com.br/assento-sanitario-almofadado-com-tampa-de-vaso-banheiro-universal-oval-pitia/p/MLB66894942"
   }
 ]
