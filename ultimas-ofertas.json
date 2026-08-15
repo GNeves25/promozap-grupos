@@ -8,14 +8,6 @@
     "link": "https://s.shopee.com.br/6fgVZNvMmK"
   },
   {
-    "titulo": "T\u00EAnis Masculino Eros Olympikus",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 349.99,
-    "precoComDesconto": 184.97,
-    "imagemUrl": "https://http2.mlstatic.com/D_663369-MLA99987722659_112025-O.jpg",
-    "link": "https://meli.la/2S8988d"
-  },
-  {
     "titulo": "Frigideira Cer\u00E2mica 24cm Grande Premium Antiaderente Fog\u00E3o Cooktop Indu\u00E7\u00E3o G\u00E1s El\u00E9trico Panela Frita Sem \u00D3leo N\u00E3o Gruda",
     "marketplace": "Mercado Livre",
     "precoOriginal": 121.37,
@@ -62,5 +54,13 @@
     "precoComDesconto": 69.25,
     "imagemUrl": "https://http2.mlstatic.com/D_650934-MLA100081933705_122025-O.jpg",
     "link": "https://meli.la/2JwjUoe"
+  },
+  {
+    "titulo": "Bicicleta El\u00E9trica Yoo Mobility Y-200 Aro 2025 Preto/Vermelho 350W",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 5999,
+    "precoComDesconto": 3199,
+    "imagemUrl": "https://http2.mlstatic.com/D_899637-MLA99578800896_122025-O.jpg",
+    "link": "https://meli.la/2wbL8FW"
   }
 ]
