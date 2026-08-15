@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Kit 12 Potes Herm\u00E9ticos Com Travas Pl\u00E1stico Cinza Plas\u00FAtil",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 214.9,
-    "precoComDesconto": 114,
-    "imagemUrl": "https://http2.mlstatic.com/D_835129-MLA95836789811_102025-O.jpg",
-    "link": "https://meli.la/2UdCx2d"
-  },
-  {
     "titulo": "Assento Sanit\u00E1rio Almofadado Com Tampa De Vaso Banheiro Universal Oval P\u00EDtia",
     "marketplace": "Mercado Livre",
     "precoOriginal": 78.99,
@@ -62,5 +54,13 @@
     "precoComDesconto": 949.9,
     "imagemUrl": "https://http2.mlstatic.com/D_792622-MLA114188919100_082026-O.jpg",
     "link": "https://meli.la/1AS6rLb"
+  },
+  {
+    "titulo": "Smartwatch Samsung Galaxy Watch8 LTE de 44mm com Galaxy AI, Grafite",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 3209,
+    "precoComDesconto": 1664,
+    "imagemUrl": "https://http2.mlstatic.com/D_787900-MLA111483722208_052026-O.jpg",
+    "link": "https://meli.la/28vFBoL"
   }
 ]
