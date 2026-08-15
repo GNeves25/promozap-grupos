@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Assento Sanit\u00E1rio Almofadado Com Tampa De Vaso Banheiro Universal Oval P\u00EDtia",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 78.99,
-    "precoComDesconto": 38.99,
-    "imagemUrl": "https://http2.mlstatic.com/D_809272-MLA109094988005_032026-O.jpg",
-    "link": "https://www.mercadolivre.com.br/assento-sanitario-almofadado-com-tampa-de-vaso-banheiro-universal-oval-pitia/p/MLB66894942"
-  },
-  {
     "titulo": "Seringa Insulina Com Agulha Fixa U-100 8mm X 0,30mm 100un Sr",
     "marketplace": "Mercado Livre",
     "precoOriginal": 249.9,
@@ -62,5 +54,13 @@
     "precoComDesconto": 1664,
     "imagemUrl": "https://http2.mlstatic.com/D_787900-MLA111483722208_052026-O.jpg",
     "link": "https://meli.la/28vFBoL"
+  },
+  {
+    "titulo": "Fritadeira E Forno El\u00E9trico Style Oven Fry Elgin 10l Preto",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 549,
+    "precoComDesconto": 289.9,
+    "imagemUrl": "https://http2.mlstatic.com/D_849952-MLA113216229272_072026-O.jpg",
+    "link": "https://meli.la/15YHxwj"
   }
 ]
