@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "Kit 2 Short Feminino Alfaiataria Social com dois Cinto Cintura Alta PROMO\u00C7\u00C3O",
+    "marketplace": "Shopee",
+    "precoOriginal": 159.6,
+    "precoComDesconto": 39.9,
+    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfeu2yv3lz4759",
+    "link": "https://s.shopee.com.br/LmIiXMkQX"
+  },
+  {
     "titulo": "Conjunto Feminino: Colar de Osso de Cobra Laminado e Pulseira Corrente Banhados a Ouro 18k Eleg\u00E2ncia",
     "marketplace": "Shopee",
     "precoOriginal": 49.6,
@@ -40,27 +48,19 @@
     "link": "https://meli.la/262RSKT"
   },
   {
-    "titulo": "Porta C\u00E1psulas Gaveta Preto MDF Dolce Gusto 48 Unidades Cafeteira",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 189.99,
-    "precoComDesconto": 59.4,
-    "imagemUrl": "https://http2.mlstatic.com/D_680212-MLA99616640460_122025-O.jpg",
-    "link": "https://meli.la/12MNFGR"
-  },
-  {
-    "titulo": "Penteadeira Kelan Suspensa Gaveta Multifuncional Pr\u00E1tica Cor Branco",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 159.9,
-    "precoComDesconto": 65.45,
-    "imagemUrl": "https://http2.mlstatic.com/D_961792-MLA112909834940_072026-O.jpg",
-    "link": "https://meli.la/2XDSQG4"
-  },
-  {
     "titulo": "Fio Eletroplastico 500m Cerca Eletrica Rural Residencial Top",
     "marketplace": "Mercado Livre",
     "precoOriginal": 140.52,
     "precoComDesconto": 58.8,
     "imagemUrl": "https://http2.mlstatic.com/D_881107-MLA99487189788_112025-O.jpg",
     "link": "https://meli.la/29FPaqG"
+  },
+  {
+    "titulo": "Fritadeira El\u00E9trica Air Fryer WAP Barbecue Heat WC AB1030",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 1219,
+    "precoComDesconto": 578.9,
+    "imagemUrl": "https://http2.mlstatic.com/D_642560-MLA114768824248_082026-O.jpg",
+    "link": "https://meli.la/2WpbDrd"
   }
 ]
