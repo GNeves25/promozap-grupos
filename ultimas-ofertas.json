@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "M\u00E1quina de Acabamento Profissional Kemei KM-2299 Aparador El\u00E9trico Recarreg\u00E1vel Bivolt para Barbeiro",
-    "marketplace": "Shopee",
-    "precoOriginal": 169.98,
-    "precoComDesconto": 79.89,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820lc-mm1y4fjqkg04b5",
-    "link": "https://s.shopee.com.br/BT2SBZVIP"
-  },
-  {
     "titulo": "Lixeira Inteligente Autom\u00E1tica 16l Com Sensor Infravermelho Recarreg\u00E1vel Usb Sistema Anti Odor Tampa Touchless Para Banheiro Cozinha Cor Cinza Escuro",
     "marketplace": "Mercado Livre",
     "precoOriginal": 199.98,
@@ -62,5 +54,13 @@
     "precoComDesconto": 58.8,
     "imagemUrl": "https://http2.mlstatic.com/D_881107-MLA99487189788_112025-O.jpg",
     "link": "https://meli.la/29FPaqG"
+  },
+  {
+    "titulo": "Soprador De Folhas El\u00E9trico Profissional Turbo Super Potente 60000rpm RPM Bateria Bivolt Sem Fio - Mestri M136",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 499.97,
+    "precoComDesconto": 219.97,
+    "imagemUrl": "https://http2.mlstatic.com/D_980160-MLA110892152494_052026-O.jpg",
+    "link": "https://meli.la/2YZfV83"
   }
 ]
