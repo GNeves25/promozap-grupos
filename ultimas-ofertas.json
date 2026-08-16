@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Conjunto Infantil Kit Sortido 10 Pe\u00E7as De Roupas Menino - 5 Camisetas \u002B 5 Bermudas",
-    "marketplace": "Shopee",
-    "precoOriginal": 99.99,
-    "precoComDesconto": 49.99,
-    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-82634-mk9xmdm63ymfbe",
-    "link": "https://s.shopee.com.br/6pzdt6adFd"
-  },
-  {
-    "titulo": "Cortador de Legumes e Vegetais 16 em 1 L\u00E2minas de Inox Acess\u00F3rio de Cozinha Pr\u00E1tico e Resistente F\u00E1cil de Usar e Limpar",
-    "marketplace": "Shopee",
-    "precoOriginal": 83.31,
-    "precoComDesconto": 34.99,
-    "imagemUrl": "https://cf.shopee.com.br/file/cn-11134207-7ras8-mbhvo90jyekt52",
-    "link": "https://s.shopee.com.br/7fYpHNMPLi"
-  },
-  {
     "titulo": "Protetor De Ruidos Abafador Bebe Crian\u00E7a Autista Infantil Fone Concha \uFF08Entrega imediata\uFF09",
     "marketplace": "Shopee",
     "precoOriginal": 99.71,
@@ -62,5 +46,21 @@
     "precoComDesconto": 69.9,
     "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mew4bcm560apa3",
     "link": "https://s.shopee.com.br/9KgzGQfd3U"
+  },
+  {
+    "titulo": "Medicube PDRN Pink Collagen Capsule Cream 55g",
+    "marketplace": "Shopee",
+    "precoOriginal": 269.37,
+    "precoComDesconto": 131.99,
+    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134207-7rfhi-m9uzho0bllexc4",
+    "link": "https://s.shopee.com.br/4Az3jW8aVP"
+  },
+  {
+    "titulo": "Macac\u00E3o Feminino Duna Pantalona com Bojo e Cinto 003",
+    "marketplace": "Shopee",
+    "precoOriginal": 130,
+    "precoComDesconto": 68.9,
+    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgu8zbuacqo020",
+    "link": "https://s.shopee.com.br/70J07kOnCG"
   }
 ]
