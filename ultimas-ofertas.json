@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "Body Splash 200ml - O Botic\u00E1rio",
+    "marketplace": "Shopee",
+    "precoOriginal": 165,
+    "precoComDesconto": 63,
+    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mobn78rta5mt65",
+    "link": "https://s.shopee.com.br/8AV0g5yody"
+  },
+  {
     "titulo": " Kit de Extens\u00E3o de C\u00EDlios, Textura Volumosa 5D, Design para C\u00EDlios Inferiores, Estilo Denso, Caixa \u00DAnica, com",
     "marketplace": "Shopee",
     "precoOriginal": 153.83,
@@ -54,13 +62,5 @@
     "precoComDesconto": 59.4,
     "imagemUrl": "https://http2.mlstatic.com/D_680212-MLA99616640460_122025-O.jpg",
     "link": "https://meli.la/12MNFGR"
-  },
-  {
-    "titulo": "Penteadeira Kelan Suspensa Gaveta Multifuncional Pr\u00E1tica Cor Branco",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 159.9,
-    "precoComDesconto": 65.45,
-    "imagemUrl": "https://http2.mlstatic.com/D_961792-MLA112909834940_072026-O.jpg",
-    "link": "https://meli.la/2XDSQG4"
   }
 ]
