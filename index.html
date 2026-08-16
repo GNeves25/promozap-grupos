@@ -46,26 +46,6 @@
   .pz-group-row:hover { background: var(--color-accent-100); }
   .pz-feed-card { transition: border-color 0.15s, transform 0.15s; }
   .pz-feed-card:hover { border-color: var(--color-accent); transform: translateY(-4px); }
-
-  .pz-ribbon {
-    position: absolute;
-    top: 24px;
-    right: -46px;
-    width: 190px;
-    padding: 7px 0;
-    background: var(--color-accent);
-    color: var(--color-bg);
-    font-family: var(--font-heading);
-    font-weight: 900;
-    font-size: 12px;
-    letter-spacing: 0.18em;
-    text-transform: uppercase;
-    text-align: center;
-    transform: rotate(45deg);
-    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
-    z-index: 5;
-    pointer-events: none;
-  }
 </style>
 </head>
 <body>
@@ -79,11 +59,9 @@
     </div>
   </div>
 
-  <div style="position: relative; overflow: hidden; max-width: 760px; margin: 0 auto; border-left: 2px solid var(--color-divider); border-right: 2px solid var(--color-divider); min-height: 100vh; background: var(--color-bg)">
+  <div style="max-width: 760px; margin: 0 auto; border-left: 2px solid var(--color-divider); border-right: 2px solid var(--color-divider); min-height: 100vh; background: var(--color-bg)">
 
-    <div class="pz-ribbon">Sale</div>
-
-    <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 14px 72px 14px 20px; border-bottom: 2px solid var(--color-divider)">
+    <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 14px 20px; border-bottom: 2px solid var(--color-divider)">
       <div style="display:flex; align-items:center; gap:8px;">
         <img src="icon.png" alt="" width="22" height="22" style="border-radius:5px;" />
         <span style="font-family: var(--font-heading); font-weight: 900; font-size: 17px; letter-spacing: -0.02em; text-transform: uppercase">PromoZap</span>
