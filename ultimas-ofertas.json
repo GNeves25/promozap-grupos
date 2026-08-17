@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Porta Retrato Fam\u00EDlia MDF De Parede 7 Fotos Galhos Decorativo",
-    "marketplace": "Shopee",
-    "precoOriginal": 60.30,
-    "precoComDesconto": 19.9,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mpc5wen8llhha1",
-    "link": "https://s.shopee.com.br/W5vL1dB7g"
-  },
-  {
     "titulo": "Escaleta Melodica Bert\u00F4 Preto 32 Teclas Capa Bocal Mangueira",
     "marketplace": "Mercado Livre",
     "precoOriginal": 221.58,
@@ -22,14 +14,6 @@
     "precoComDesconto": 189,
     "imagemUrl": "https://http2.mlstatic.com/D_681726-MLA99524592290_122025-O.jpg",
     "link": "https://meli.la/2nARc4L"
-  },
-  {
-    "titulo": "Kit Wella Invigo Enrich Pro Sh 1l \u002B Cond 1l \u002B Masc 500 Ml",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 1032,
-    "precoComDesconto": 414.92,
-    "imagemUrl": "https://http2.mlstatic.com/D_758135-MLA99844297113_112025-O.jpg",
-    "link": "https://meli.la/11bBf7W"
   },
   {
     "titulo": "Rel\u00F3gio Masculino Dourado Saint Germain Correia De Couro Preto Caixa Dourada Fundo Branco 40mm Elegante Cl\u00E1ssico",
@@ -62,5 +46,21 @@
     "precoComDesconto": 90.46,
     "imagemUrl": "https://http2.mlstatic.com/D_856898-MLA87999531628_072025-O.jpg",
     "link": "https://meli.la/1RASBij"
+  },
+  {
+    "titulo": "Pulseira 7 N\u00F3s Vermelha Ajust\u00E1vel Prote\u00E7\u00E3o Kabbalah Unissex",
+    "marketplace": "Shopee",
+    "precoOriginal": 19.12,
+    "precoComDesconto": 11.09,
+    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbng-m5n8wgswtgew3f",
+    "link": "https://s.shopee.com.br/30nEE7ct73"
+  },
+  {
+    "titulo": "Jogo De Panelas 7 Pe\u00E7as Brinox Ceramic Life Vanilla",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 1099,
+    "precoComDesconto": 455,
+    "imagemUrl": "https://http2.mlstatic.com/D_905265-MLA95678690664_102025-O.jpg",
+    "link": "https://meli.la/1fVtgc5"
   }
 ]
