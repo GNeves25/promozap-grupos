@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "Kit 5 Toalhas de Rosto Jade 45x60 Custo Benef\u00EDcio Algod\u00E3o",
+    "marketplace": "Shopee",
+    "precoOriginal": 131.48,
+    "precoComDesconto": 35.5,
+    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mmrl24hzslqccd",
+    "link": "https://s.shopee.com.br/80BmlWYK0e"
+  },
+  {
     "titulo": "Escaleta Melodica Bert\u00F4 Preto 32 Teclas Capa Bocal Mangueira",
     "marketplace": "Mercado Livre",
     "precoOriginal": 221.58,
@@ -40,27 +48,19 @@
     "link": "https://meli.la/1hYiJya"
   },
   {
-    "titulo": "Perfume Nautica Voyage Eau De Toilette Masculino 100ml",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 219.99,
-    "precoComDesconto": 90.46,
-    "imagemUrl": "https://http2.mlstatic.com/D_856898-MLA87999531628_072025-O.jpg",
-    "link": "https://meli.la/1RASBij"
-  },
-  {
-    "titulo": "Pulseira 7 N\u00F3s Vermelha Ajust\u00E1vel Prote\u00E7\u00E3o Kabbalah Unissex",
-    "marketplace": "Shopee",
-    "precoOriginal": 19.12,
-    "precoComDesconto": 11.09,
-    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-7rbng-m5n8wgswtgew3f",
-    "link": "https://s.shopee.com.br/30nEE7ct73"
-  },
-  {
     "titulo": "Jogo De Panelas 7 Pe\u00E7as Brinox Ceramic Life Vanilla",
     "marketplace": "Mercado Livre",
     "precoOriginal": 1099,
     "precoComDesconto": 455,
     "imagemUrl": "https://http2.mlstatic.com/D_905265-MLA95678690664_102025-O.jpg",
     "link": "https://meli.la/1fVtgc5"
+  },
+  {
+    "titulo": "Cola Adesiva para Extens\u00E3o de C\u00EDlios Lashes Co Pure\u002B\u002B 3ml",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 189.99,
+    "precoComDesconto": 78.9,
+    "imagemUrl": "https://http2.mlstatic.com/D_913761-MLA80471379435_112024-O.jpg",
+    "link": "https://meli.la/1MeAn1h"
   }
 ]
