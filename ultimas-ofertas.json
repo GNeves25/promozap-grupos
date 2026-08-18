@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Kit Hello Kitty Babuche \u002B Bolsa Infantil Menina Estilosa\n",
-    "marketplace": "Shopee",
-    "precoOriginal": 89.23,
-    "precoComDesconto": 34.8,
-    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-7ra3w-mbid0ehwmmp179",
-    "link": "https://s.shopee.com.br/gPMhcwGVv"
-  },
-  {
-    "titulo": "Gloss Labial Chaveiro Lip Oil Hidratante com Brilho Modelos Variados Infantil e Adulto",
-    "marketplace": "Shopee",
-    "precoOriginal": 21.91,
-    "precoComDesconto": 14.9,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820ln-mqde81ix2cch80",
-    "link": "https://s.shopee.com.br/4AzEs3j0fy"
-  },
-  {
     "titulo": "Kit 2 Refletor Super Led 400w Ip67 Holofote Bivolt Prova D\u0027\u00E1gua Branco Frio 6500k Preto",
     "marketplace": "Mercado Livre",
     "precoOriginal": 99.98,
@@ -62,5 +46,21 @@
     "precoComDesconto": 37.14,
     "imagemUrl": "https://http2.mlstatic.com/D_837398-MLA110509350621_042026-O.jpg",
     "link": "https://meli.la/31C2KAq"
+  },
+  {
+    "titulo": "Panela Cera Quente Aquecedor El\u00E9trica Depila\u00E7\u00E3o Termocera BMED",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 79.9,
+    "precoComDesconto": 39.06,
+    "imagemUrl": "https://http2.mlstatic.com/D_768752-MLA112592874999_062026-O.jpg",
+    "link": "https://meli.la/1zNiEvp"
+  },
+  {
+    "titulo": "Kit Estojo Touch Canetas Ponta Dupla 48 Cores P/ Colorir",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 17.29,
+    "precoComDesconto": 8.3,
+    "imagemUrl": "https://http2.mlstatic.com/D_653518-MLA99590936320_122025-O.jpg",
+    "link": "https://meli.la/15ht555"
   }
 ]
