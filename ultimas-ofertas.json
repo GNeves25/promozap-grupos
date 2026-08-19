@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "Kit  Cortador De Unha Manicure Portatil Estojo Pinca Tesoura C/Organizador de couro de luxo",
+    "marketplace": "Shopee",
+    "precoOriginal": 99.95,
+    "precoComDesconto": 19.99,
+    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma8kc28j9kzddd",
+    "link": "https://s.shopee.com.br/9zwxjsKy54"
+  },
+  {
     "titulo": "Kit 3 Cal\u00E7as Wide Leg Meninas Infantil e Juvenil Estampada Jeans",
     "marketplace": "Shopee",
     "precoOriginal": 301.87,
@@ -24,22 +32,6 @@
     "link": "https://meli.la/2ugjFMz"
   },
   {
-    "titulo": "Celular Samsung Galaxy A57 5G 256GB, 8GB RAM, Recursos AI - Cinza",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 3999,
-    "precoComDesconto": 2298,
-    "imagemUrl": "https://http2.mlstatic.com/D_800527-MLA114603389639_072026-O.jpg",
-    "link": "https://meli.la/2tCq9pm"
-  },
-  {
-    "titulo": "Kit 4 Caixas Cesto Organizadora Grande Dobr\u00E1vel Guarda Roupa Gaveta Mesas Banheiro Cor Cinza",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 99.9,
-    "precoComDesconto": 57.46,
-    "imagemUrl": "https://http2.mlstatic.com/D_843334-MLA101821298815_122025-O.jpg",
-    "link": "https://meli.la/2Qu4XMX"
-  },
-  {
     "titulo": "Extratora de Sujeira Port\u00E1til WAP Spot Cleaner W3 Borrifa Esfrega e Extrai 1450W de Pot\u00EAncia e Bico de Autolimpeza",
     "marketplace": "Mercado Livre",
     "precoOriginal": 899.86,
@@ -62,5 +54,13 @@
     "precoComDesconto": 194.9,
     "imagemUrl": "https://http2.mlstatic.com/D_839894-MLA112812676002_072026-O.jpg",
     "link": "https://meli.la/1D3BE15"
+  },
+  {
+    "titulo": "Rob\u00F4 Aspirador de P\u00F3 WAP ROBOT W90 P\u00C9ROLA Autom\u00E1tico 3 em 1",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 579.9,
+    "precoComDesconto": 313.15,
+    "imagemUrl": "https://http2.mlstatic.com/D_757657-MLA99984543749_112025-O.jpg",
+    "link": "https://meli.la/1ByLLXH"
   }
 ]
