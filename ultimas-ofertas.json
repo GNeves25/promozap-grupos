@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "T\u00EAnis Infantil Menino Calce Facil Escolar Macio Sola Antiderrapante Sapato Confort\u00E1vel",
-    "marketplace": "Shopee",
-    "precoOriginal": 120.34,
-    "precoComDesconto": 34.9,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mord5krb0f7n0b",
-    "link": "https://s.shopee.com.br/2qThfKXNZG"
-  },
-  {
     "titulo": "Kemei KM-2299 M\u00E1quina Barbear Profissional Acabamento Aparador Detalhador Barbeiro Cortar El\u00E9trica",
     "marketplace": "Shopee",
     "precoOriginal": 170.19,
@@ -62,5 +54,13 @@
     "precoComDesconto": 49.9,
     "imagemUrl": "https://http2.mlstatic.com/D_724082-MLA99909098518_122025-O.jpg",
     "link": "https://meli.la/2CvUjoT"
+  },
+  {
+    "titulo": "Suplemento Carne Bovina Beef Lactose 900g Morango C/kiwi Shark Pro",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 220,
+    "precoComDesconto": 124.41,
+    "imagemUrl": "https://http2.mlstatic.com/D_838415-MLA99441280344_112025-O.jpg",
+    "link": "https://meli.la/18kRJS1"
   }
 ]
