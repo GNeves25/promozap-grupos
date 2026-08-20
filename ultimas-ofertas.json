@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "M\u00E1quina Tosa De Pet Profissional Kemei 1991",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 299.9,
-    "precoComDesconto": 104.97,
-    "imagemUrl": "https://http2.mlstatic.com/D_686330-MLA112499218472_062026-O.jpg",
-    "link": "https://meli.la/2iV7K8L"
-  },
-  {
     "titulo": "Kit 2 Body Splash Barbour\u0027s My Sweet Delight e Very Sexy 200ml Cada \u2013 Desodorante Col\u00F4nia Feminino Alta Fixa\u00E7\u00E3o",
     "marketplace": "Shopee",
     "precoOriginal": 59.8,
@@ -62,5 +54,13 @@
     "precoComDesconto": 57.77,
     "imagemUrl": "https://http2.mlstatic.com/D_814701-MLA99498392396_112025-O.jpg",
     "link": "https://meli.la/1UUQ9iy"
+  },
+  {
+    "titulo": "Philco Aspirador de P\u00F3 Vertical Philco Pas4000v 2000W Power Clean 2 Litros Preto",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 439.9,
+    "precoComDesconto": 246.72,
+    "imagemUrl": "https://http2.mlstatic.com/D_752850-MLA95248658813_102025-O.jpg",
+    "link": "https://meli.la/135Xzxm"
   }
 ]
