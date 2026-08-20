@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Brinco Feminino Flor Dourado com P\u00E9rola Efeito Madrep\u00E9rola Delicado Elegante para Festa Casamento Presente",
-    "marketplace": "Shopee",
-    "precoOriginal": 39.98,
-    "precoComDesconto": 17.99,
-    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-824hr-mpki7k32xgjycd",
-    "link": "https://s.shopee.com.br/50YP5m8S95"
-  },
-  {
     "titulo": "Kit 30 Esmalte Impala Cores Sortidas Sem Repeti\u00E7\u00E3o Atacado Manicure Pedicure",
     "marketplace": "Shopee",
     "precoOriginal": 49.70,
@@ -32,14 +24,6 @@
     "link": "https://s.shopee.com.br/9fKEeLmDdn"
   },
   {
-    "titulo": "Ar Condicionado Split Hi Wall Inverter Aufit 9.000 Btus Frio R-32.",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 2584,
-    "precoComDesconto": 1471,
-    "imagemUrl": "https://http2.mlstatic.com/D_655411-MLA104870149475_012026-O.jpg",
-    "link": "https://meli.la/1TwjHYu"
-  },
-  {
     "titulo": "Controle Joystick Sem Fio Sony PlayStation 5 DualSense Midnight Black",
     "marketplace": "Mercado Livre",
     "precoOriginal": 699,
@@ -62,5 +46,21 @@
     "precoComDesconto": 515.9,
     "imagemUrl": "https://http2.mlstatic.com/D_630038-MLA100035495045_122025-O.jpg",
     "link": "https://meli.la/2pmHbwS"
+  },
+  {
+    "titulo": "Mixer Bmx400p 3 Em 1 500w Cor Preto Brit\u00E2nia 110v Preto",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 229.9,
+    "precoComDesconto": 131.91,
+    "imagemUrl": "https://http2.mlstatic.com/D_784001-MLA108909448424_032026-O.jpg",
+    "link": "https://meli.la/1jb51r3"
+  },
+  {
+    "titulo": "Filtro Clamper 5 Tomadas Pc Gamer - 1270 / 2200w Bivolt Cor Preto",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 112.7,
+    "precoComDesconto": 64.84,
+    "imagemUrl": "https://http2.mlstatic.com/D_903679-MLA112272593331_052026-O.jpg",
+    "link": "https://meli.la/1SWDQtm"
   }
 ]
