@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Quadro Porta Retrato Fam\u00EDlia MDF 7 Fotos Decorativo Parede",
-    "marketplace": "Shopee",
-    "precoOriginal": 60.30,
-    "precoComDesconto": 19.9,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820m6-mpc5wenekidi3a",
-    "link": "https://s.shopee.com.br/904Xr7kUjv"
-  },
-  {
     "titulo": "Brinco Feminino Flor Dourado com P\u00E9rola Efeito Madrep\u00E9rola Delicado Elegante para Festa Casamento Presente",
     "marketplace": "Shopee",
     "precoOriginal": 39.98,
@@ -62,5 +54,13 @@
     "precoComDesconto": 36,
     "imagemUrl": "https://http2.mlstatic.com/D_728533-MLB82068533844_022025-O.jpg",
     "link": "https://meli.la/1F9u8uq"
+  },
+  {
+    "titulo": "Panificadora Multipane 12P Com Fun\u00E7\u00E3o Timer e Antiaderente Pot\u00EAncia de 550W Cor Preto Brit\u00E2nia",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 899,
+    "precoComDesconto": 515.9,
+    "imagemUrl": "https://http2.mlstatic.com/D_630038-MLA100035495045_122025-O.jpg",
+    "link": "https://meli.la/2pmHbwS"
   }
 ]
