@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "Kit Completo Maca Power karseell  M\u00E1scara 500 g \u002B condicionador 1L \u002B Shampoo 1L \u002B \u00D3leo P 50ml",
+    "marketplace": "Shopee",
+    "precoOriginal": 350,
+    "precoComDesconto": 49,
+    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820ly-mnb7dwwwmo748e",
+    "link": "https://s.shopee.com.br/AUtEKnJ449"
+  },
+  {
     "titulo": "Sa\u00EDda de Praia Feminina Cal\u00E7a Tricot \u2013 Croch\u00EA Furadinho Ver\u00E3o 2026 | Veste 36 a 44 (P ao GG)",
     "marketplace": "Shopee",
     "precoOriginal": 49.9,
@@ -24,20 +32,20 @@
     "link": "https://meli.la/1hoZN38"
   },
   {
-    "titulo": "Tapa Fugas F5 8ml C Mangueira Elimina Vazamentos Automotivo",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 84,
-    "precoComDesconto": 38.79,
-    "imagemUrl": "https://http2.mlstatic.com/D_626199-MLB108249304342_032026-O.jpg",
-    "link": "https://meli.la/1agZ5nM"
-  },
-  {
     "titulo": "Carregador Port\u00E1til Davely Power Bank 20000mAh Turbo para Samsung, iPhone e Xiaomi Motorola Celular Smartwatch Tablet Davely Preto/Branco",
     "marketplace": "Mercado Livre",
     "precoOriginal": 120,
     "precoComDesconto": 56,
     "imagemUrl": "https://http2.mlstatic.com/D_759993-MLA116124373447_082026-O.jpg",
     "link": "https://meli.la/1nFzKSq"
+  },
+  {
+    "titulo": "Bicicleta Infantil De Equil\u00EDbrio Sem Pedal Andador 4 Rodas Cor Azul",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 145.41,
+    "precoComDesconto": 69.19,
+    "imagemUrl": "https://http2.mlstatic.com/D_976719-MLA100007783665_122025-O.jpg",
+    "link": "https://meli.la/1pWjymi"
   },
   {
     "titulo": "Refil Hidratante Tododia Jambo Rosa Flor De Caju 400ml Fragr\u00E2ncia Jambo Rosa e Flor de Caju",
@@ -54,13 +62,5 @@
     "precoComDesconto": 27,
     "imagemUrl": "https://http2.mlstatic.com/D_934545-MLB114813714816_082026-O.jpg",
     "link": "https://meli.la/2NShyit"
-  },
-  {
-    "titulo": "Bicicleta Infantil De Equil\u00EDbrio Sem Pedal Andador 4 Rodas Cor Azul",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 145.41,
-    "precoComDesconto": 69.19,
-    "imagemUrl": "https://http2.mlstatic.com/D_976719-MLA100007783665_122025-O.jpg",
-    "link": "https://meli.la/1pWjymi"
   }
 ]
