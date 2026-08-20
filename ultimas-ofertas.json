@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Cinto Unissex De Cintura Decorado Com Lantejoulas Prata Estilo Punk",
-    "marketplace": "Shopee",
-    "precoOriginal": 49.95,
-    "precoComDesconto": 18.98,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820m8-mlnklo7aiy9y01",
-    "link": "https://s.shopee.com.br/3g30uEIjlK"
-  },
-  {
     "titulo": "Kit 4 Pe\u00E7as Conjuntos Ver\u00E3o Menina Infantil e Juvenil Tamanho 01 ao 14 anos",
     "marketplace": "Shopee",
     "precoOriginal": 90.45,
@@ -62,5 +54,13 @@
     "precoComDesconto": 145.49,
     "imagemUrl": "https://http2.mlstatic.com/D_604166-MLA82707253941_022025-O.jpg",
     "link": "https://meli.la/1J7Giph"
+  },
+  {
+    "titulo": "100% Whey Protein Pote 900g Sabor Gelato Di Latte Dark Lab",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 500,
+    "precoComDesconto": 156.51,
+    "imagemUrl": "https://http2.mlstatic.com/D_940486-MLA96642947759_102025-O.jpg",
+    "link": "https://meli.la/23kfcJU"
   }
 ]
