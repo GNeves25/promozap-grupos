@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Camisola Lingerie Renda Sexy Sem Bojo Langerie Luxo",
-    "marketplace": "Shopee",
-    "precoOriginal": 40.52,
-    "precoComDesconto": 23.5,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-lprxo2jm198j1f",
-    "link": "https://s.shopee.com.br/20uqi5sX1e"
-  },
-  {
-    "titulo": "Serra El\u00E9trica Tico Tico Einhell Tc-js 60 E 220v",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 286.25,
-    "precoComDesconto": 99.5,
-    "imagemUrl": "https://http2.mlstatic.com/D_806236-MLA99873503859_112025-O.jpg",
-    "link": "https://meli.la/24LBVJA"
-  },
-  {
     "titulo": "Kit Jogo De Chave Catraca Soquete 46 Pe\u00E7as Combo Jogo Ferramentas Profissional Ditap Variedades",
     "marketplace": "Shopee",
     "precoOriginal": 76.55,
@@ -62,5 +46,21 @@
     "precoComDesconto": 19.19,
     "imagemUrl": "https://http2.mlstatic.com/D_621770-MLU75998814229_042024-O.jpg",
     "link": "https://meli.la/2g4FvvB"
+  },
+  {
+    "titulo": "Fog\u00E3o 4 Bocas Atlas M\u00F4naco Top Glass com Mesa de Vidro e Acendimento Autom\u00E1tico Preto Bivolt",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 1489,
+    "precoComDesconto": 771.81,
+    "imagemUrl": "https://http2.mlstatic.com/D_937642-MLU77312515187_062024-O.jpg",
+    "link": "https://meli.la/2wptoWE"
+  },
+  {
+    "titulo": "Aparador Barbeador Kemei KM-6558 Recarreg\u00E1vel 3 Em 1 Cabe\u00E7as Remov\u00EDveis Bivolt",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 78.89,
+    "precoComDesconto": 38.6,
+    "imagemUrl": "https://http2.mlstatic.com/D_816451-MLA100060131025_122025-O.jpg",
+    "link": "https://meli.la/25viyH2"
   }
 ]
