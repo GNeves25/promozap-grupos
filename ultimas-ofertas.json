@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "Vestido Longo Feminino Alcinha Fina Bojo Estampa Floral Tend\u00EAncia Ver\u00E3o",
+    "marketplace": "Shopee",
+    "precoOriginal": 188.29,
+    "precoComDesconto": 65.9,
+    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjyaf68m9qfab2",
+    "link": "https://s.shopee.com.br/3B6WU7VL8G"
+  },
+  {
     "titulo": "Pijama Feminino Baby Doll Short Ver\u00E3o Confort\u00E1vel Blogueirinha Alcinha Luxo Com Bot\u00F5es",
     "marketplace": "Shopee",
     "precoOriginal": 22.84,
@@ -14,6 +22,14 @@
     "precoComDesconto": 35.5,
     "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mmrl24hzslqccd",
     "link": "https://s.shopee.com.br/80BmlWYK0e"
+  },
+  {
+    "titulo": "M\u00E1quina de Cortar Cabelo Kemei KM-2299 Sem Fio, para Acabamento Profissional , barba , corpo , pezinho , trimmer , sem fio bivolt ,lamina Dlc",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 198.9,
+    "precoComDesconto": 77.69,
+    "imagemUrl": "https://http2.mlstatic.com/D_670654-MLA101683941839_122025-O.jpg",
+    "link": "https://meli.la/2yQZno4"
   },
   {
     "titulo": "Rel\u00F3gio Casio Mini Vintage Feminino Prata La670wa-7df Cronometro calend\u00E1rio alarme Prateado",
@@ -32,14 +48,6 @@
     "link": "https://meli.la/2tFFVnD"
   },
   {
-    "titulo": "Escaleta Melodica Bert\u00F4 Preto 32 Teclas Capa Bocal Mangueira",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 221.58,
-    "precoComDesconto": 75.36,
-    "imagemUrl": "https://http2.mlstatic.com/D_730754-MLA99936529291_112025-O.jpg",
-    "link": "https://meli.la/1dkWUTR"
-  },
-  {
     "titulo": "Estufa Manicure Esterilizador De Alicates Pedicure Mega Bell Cor Branco",
     "marketplace": "Mercado Livre",
     "precoOriginal": 440,
@@ -54,13 +62,5 @@
     "precoComDesconto": 191.4,
     "imagemUrl": "https://http2.mlstatic.com/D_959769-MLA104235466472_012026-O.jpg",
     "link": "https://meli.la/2im7bBx"
-  },
-  {
-    "titulo": "Lixeira Inteligente 16 Litros Com Sensor Autom\u00E1tico Para Banheiro e Cozinha Cinza",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 259.99,
-    "precoComDesconto": 63.04,
-    "imagemUrl": "https://http2.mlstatic.com/D_886959-MLA112302699775_052026-O.jpg",
-    "link": "https://www.mercadolivre.com.br/lixeira-inteligente-16-litros-com-sensor-automatico-para-banheiro-e-cozinha-cinza/p/MLB61847545"
   }
 ]
