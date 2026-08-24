@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Babuche Infantil Menino Personagens Sand\u00E1lia Chinelo Confort\u00E1vel Masculino",
-    "marketplace": "Shopee",
-    "precoOriginal": 36.74,
-    "precoComDesconto": 16.9,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meis3tjimf4054",
-    "link": "https://s.shopee.com.br/7VFr381SP3"
-  },
-  {
     "titulo": "Escaleta Melodica Bert\u00F4 Preto 32 Teclas Capa Bocal Mangueira",
     "marketplace": "Mercado Livre",
     "precoOriginal": 221.58,
@@ -62,5 +54,13 @@
     "precoComDesconto": 90.59,
     "imagemUrl": "https://http2.mlstatic.com/D_999069-MLA99988148593_112025-O.jpg",
     "link": "https://meli.la/28MBtDU"
+  },
+  {
+    "titulo": "Hipercal\u00F3rico Dark Mass 3kg Chocolate Branco c/ Morango Dark Lab",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 249.9,
+    "precoComDesconto": 74.95,
+    "imagemUrl": "https://http2.mlstatic.com/D_894319-MLA99934921621_112025-O.jpg",
+    "link": "https://meli.la/1hYiJya"
   }
 ]
