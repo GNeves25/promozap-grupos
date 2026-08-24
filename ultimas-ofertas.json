@@ -24,14 +24,6 @@
     "link": "https://s.shopee.com.br/5foDGUILQH"
   },
   {
-    "titulo": "Kit 5 Toalhas de Rosto Jade 45x60 Custo Benef\u00EDcio Algod\u00E3o",
-    "marketplace": "Shopee",
-    "precoOriginal": 131.48,
-    "precoComDesconto": 35.5,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820l5-mmrl24hzslqccd",
-    "link": "https://s.shopee.com.br/80BmlWYK0e"
-  },
-  {
     "titulo": "Xiaomi Poco X7 Pro 5g 12ram /512 Gb Global Cor Preto",
     "marketplace": "Mercado Livre",
     "precoOriginal": 6000,
@@ -62,5 +54,13 @@
     "precoComDesconto": 348,
     "imagemUrl": "https://http2.mlstatic.com/D_613832-MLA115392564655_072026-O.jpg",
     "link": "https://meli.la/2tFFVnD"
+  },
+  {
+    "titulo": "Estufa Manicure Esterilizador De Alicates Pedicure Mega Bell Cor Branco",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 440,
+    "precoComDesconto": 143.52,
+    "imagemUrl": "https://http2.mlstatic.com/D_841876-MLA92140834606_092025-O.jpg",
+    "link": "https://meli.la/33xgYpv"
   }
 ]
