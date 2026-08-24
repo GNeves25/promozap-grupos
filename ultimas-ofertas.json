@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Perfume Asad Bourbon Lattafa 100ml",
+    "marketplace": "Shopee",
+    "precoOriginal": 200,
+    "precoComDesconto": 94,
+    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mmwigpxiffuse2",
+    "link": "https://s.shopee.com.br/8Koy2eyHhu"
+  },
+  {
+    "titulo": "Babuche Infantil Menino Personagens Sand\u00E1lia Chinelo Confort\u00E1vel Masculino",
+    "marketplace": "Shopee",
+    "precoOriginal": 36.74,
+    "precoComDesconto": 16.9,
+    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meis3tjimf4054",
+    "link": "https://s.shopee.com.br/7VFr381SP3"
+  },
+  {
     "titulo": "Kit Lola Cosmetics Rapunzel Original | T\u00F4nico Antiqueda 250ml \u002B Acidificante 250ml | Crescimento e Fortalecimento",
     "marketplace": "Shopee",
     "precoOriginal": 89.27,
@@ -38,22 +54,6 @@
     "precoComDesconto": 44.99,
     "imagemUrl": "https://http2.mlstatic.com/D_608715-MLA114299188035_072026-O.jpg",
     "link": "https://meli.la/1Ut1toz"
-  },
-  {
-    "titulo": "Lixeira Smart Inteligente 16 Litros Quadrada Sensor De Movimento Autom\u00E1tico No Touch Preta",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 157.98,
-    "precoComDesconto": 61.96,
-    "imagemUrl": "https://http2.mlstatic.com/D_778831-MLA113000113026_072026-O.jpg",
-    "link": "https://meli.la/1uzLfHp"
-  },
-  {
-    "titulo": "Kit 15 Refil Cata Caca Rolinhos Pet Sacolas Saquinho Lixo 225 Unidades",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 54.28,
-    "precoComDesconto": 19,
-    "imagemUrl": "https://http2.mlstatic.com/D_822900-MLA99361617926_112025-O.jpg",
-    "link": "https://meli.la/153p2ju"
   },
   {
     "titulo": "Kit Wella Invigo Enrich Pro Sh 1l \u002B Cond 1l \u002B Masc 500 Ml",
