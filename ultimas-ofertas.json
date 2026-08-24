@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Perfume Asad Bourbon Lattafa 100ml",
-    "marketplace": "Shopee",
-    "precoOriginal": 200,
-    "precoComDesconto": 94,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mmwigpxiffuse2",
-    "link": "https://s.shopee.com.br/8Koy2eyHhu"
-  },
-  {
     "titulo": "Babuche Infantil Menino Personagens Sand\u00E1lia Chinelo Confort\u00E1vel Masculino",
     "marketplace": "Shopee",
     "precoOriginal": 36.74,
@@ -62,5 +54,13 @@
     "precoComDesconto": 89.9,
     "imagemUrl": "https://http2.mlstatic.com/D_746605-MLA99960420259_112025-O.jpg",
     "link": "https://meli.la/2u3fQhV"
+  },
+  {
+    "titulo": "Papa Bolinhas Philips Walita Preto - Gc026/80",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 300,
+    "precoComDesconto": 90.59,
+    "imagemUrl": "https://http2.mlstatic.com/D_999069-MLA99988148593_112025-O.jpg",
+    "link": "https://meli.la/28MBtDU"
   }
 ]
