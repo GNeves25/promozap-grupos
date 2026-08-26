@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Bone Brasil Bolson@aro 22 Patriota Verde Militar",
-    "marketplace": "Shopee",
-    "precoOriginal": 70.21,
-    "precoComDesconto": 66,
-    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-825au-msa0bb3ep3i9fe",
-    "link": "https://s.shopee.com.br/904fpi53NT"
-  },
-  {
     "titulo": "Motosserra de sabre 6 Wap K21 S01 a bateria",
     "marketplace": "Mercado Livre",
     "precoOriginal": 539.88,
@@ -62,5 +54,13 @@
     "precoComDesconto": 611.8,
     "imagemUrl": "https://http2.mlstatic.com/D_877444-MLA100085349973_122025-O.jpg",
     "link": "https://www.mercadolivre.com.br/panificadora-automatica-master-bread-mondial-700w-npf-53/p/MLB14333316"
+  },
+  {
+    "titulo": "Jogo De Toalhas Buddemeyer Bella Extra Soft Banho 4 Pe\u00E7as Azul Claro/azul Marinho",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 229.9,
+    "precoComDesconto": 119.92,
+    "imagemUrl": "https://http2.mlstatic.com/D_881368-MLA99701327430_122025-O.jpg",
+    "link": "https://www.mercadolivre.com.br/jogo-de-toalhas-buddemeyer-bella-extra-soft-banho-4-pecas-azul-claroazul-marinho/p/MLB48896933"
   }
 ]
