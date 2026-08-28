@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Kit Enxoval 6 Pe\u00E7as Body Beb\u00EA Infantil Menino Animado Estampado Bodie Short Mij\u00E3o",
-    "marketplace": "Shopee",
-    "precoOriginal": 108.84,
-    "precoComDesconto": 47.89,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820m1-mqjwt5vimuww28",
-    "link": "https://s.shopee.com.br/AKa90ZMdiA"
-  },
-  {
-    "titulo": "\u00D3culos de Sol Espotivo Premium Edi\u00E7\u00E3o Limitada Baixa Pace Ciclismo Corrida Ver\u00E3oTendencia uv400",
-    "marketplace": "Shopee",
-    "precoOriginal": 199.97,
-    "precoComDesconto": 59.99,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mn5w0chbbvnk63",
-    "link": "https://s.shopee.com.br/5VUtFgeyIB"
-  },
-  {
     "titulo": "Mesa de Jantar Tampo de Madeira Redondo 70 / 80 cm Base 3 P\u00E9s Palito",
     "marketplace": "Shopee",
     "precoOriginal": 363.6,
@@ -62,5 +46,21 @@
     "precoComDesconto": 287.1,
     "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-822zv-moe6cpfbjkzt52",
     "link": "https://s.shopee.com.br/4qFCSShRMD"
+  },
+  {
+    "titulo": "Caixa De Som JBL Partybox Encore Essencial 2 - Preto",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 3999,
+    "precoComDesconto": 1407,
+    "imagemUrl": "https://http2.mlstatic.com/D_823824-MLA99451835820_112025-O.jpg",
+    "link": "https://www.mercadolivre.com.br/caixa-de-som-jbl-partybox-encore-essencial-2-preto/p/MLB53540006"
+  },
+  {
+    "titulo": "Fritadeira El\u00E9trica Air Fryer Wap Wafg2s 5 Litros Com Revestimento Antiaderente 1500w 220v",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 598,
+    "precoComDesconto": 219,
+    "imagemUrl": "https://http2.mlstatic.com/D_646462-MLA89509974686_082025-O.jpg",
+    "link": "https://www.mercadolivre.com.br/fritadeira-eletrica-air-fryer-wap-wafg2s-5-litros-com-revestimento-antiaderente-1500w-220v/p/MLB53767795"
   }
 ]
