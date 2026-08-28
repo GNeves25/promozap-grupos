@@ -1,27 +1,11 @@
 [
   {
-    "titulo": "Mesa de Jantar Tampo de Madeira Redondo 70 / 80 cm Base 3 P\u00E9s Palito",
-    "marketplace": "Shopee",
-    "precoOriginal": 363.6,
-    "precoComDesconto": 199.98,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhgdww8934sh81",
-    "link": "https://s.shopee.com.br/6VNOjCOt9S"
-  },
-  {
     "titulo": "Cadeira Gamer Profissional Escrit\u00F3rio Ergon\u00F4mica Reclin\u00E1vel Confort\u00E1vel Com Rodinha E Apoio Para P\u00E9s",
     "marketplace": "Shopee",
     "precoOriginal": 703.45,
     "precoComDesconto": 386.9,
     "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-ml58omzds5j8cd",
     "link": "https://s.shopee.com.br/4qFCepAvrz"
-  },
-  {
-    "titulo": "Natura Tododia Framboesa e Pimenta Vermelha - Linha Completa - Escolha seu Item",
-    "marketplace": "Shopee",
-    "precoOriginal": 72.71,
-    "precoComDesconto": 47.99,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma4m58rbbbepf2",
-    "link": "https://s.shopee.com.br/50Ycelgo1G"
   },
   {
     "titulo": "Secador De Cabelo Taiff Style Profissional Original 2000W",
@@ -62,5 +46,21 @@
     "precoComDesconto": 219,
     "imagemUrl": "https://http2.mlstatic.com/D_646462-MLA89509974686_082025-O.jpg",
     "link": "https://www.mercadolivre.com.br/fritadeira-eletrica-air-fryer-wap-wafg2s-5-litros-com-revestimento-antiaderente-1500w-220v/p/MLB53767795"
+  },
+  {
+    "titulo": "Kit Halteres e Anilhas Ajust\u00E1veis 15kg para Kettlebell, Barras e Flex\u00F5es Marca Als Sports",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 630,
+    "precoComDesconto": 207.33,
+    "imagemUrl": "https://http2.mlstatic.com/D_739433-MLA107121023598_022026-O.jpg",
+    "link": "https://www.mercadolivre.com.br/kit-halteres-e-anilhas-ajustaveis-15kg-para-kettlebell-barras-e-flexoes-marca-als-sports/p/MLB51527013"
+  },
+  {
+    "titulo": "Bobina \u002B Cdi \u002B Vela Kxt Bicicleta Motorizada 80cc",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 159,
+    "precoComDesconto": 51.99,
+    "imagemUrl": "https://http2.mlstatic.com/D_962719-MLB116405436637_082026-O.jpg",
+    "link": "https://www.mercadolivre.com.br/bobina-cdi-vela-kxt-bicicleta-motorizada-80cc/p/MLB2081742875"
   }
 ]
