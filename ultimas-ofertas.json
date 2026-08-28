@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Conjunto de c\u00EDlios 3D MIOFIA 10-18mm, estilo misto, indicado para iniciantes.",
-    "marketplace": "Shopee",
-    "precoOriginal": 25.98,
-    "precoComDesconto": 12.99,
-    "imagemUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mhzxasww06bl22",
-    "link": "https://s.shopee.com.br/40fzsWJgkS"
-  },
-  {
     "titulo": "Furadeira Parafusadeira 26V Sem Fio: Alta Pot\u00EAncia, Recarreg\u00E1vel para Demanda Dom\u00E9stica",
     "marketplace": "Shopee",
     "precoOriginal": 199.6,
@@ -40,14 +32,6 @@
     "link": "https://s.shopee.com.br/50Yc3fuoPy"
   },
   {
-    "titulo": "Babuche Infantil/Sand\u00E1lias infantis meninas Chinelo casual beb\u00EA t\u00EAnis de aprendizado Leve e macio",
-    "marketplace": "Shopee",
-    "precoOriginal": 58,
-    "precoComDesconto": 29,
-    "imagemUrl": "https://cf.shopee.com.br/file/cn-11134207-820l4-mqukkzy1u29t90",
-    "link": "https://s.shopee.com.br/20uqi5x4Kc"
-  },
-  {
     "titulo": "Pulseira Bracelete Luxo S\u00E3o Bento Ajust\u00E1vel Dourada Cabo de A\u00E7o Inoxid\u00E1vel 316L",
     "marketplace": "Shopee",
     "precoOriginal": 99.9,
@@ -56,11 +40,27 @@
     "link": "https://s.shopee.com.br/1BLjiZ06Uv"
   },
   {
-    "titulo": "Forno El\u00E9trico De Embutir 68l Digital Com Air Fryer Midea Preto",
+    "titulo": "Bateria 1800mAh Drone E88 Pro E99 E525 E88max E99top 20min Voo",
     "marketplace": "Mercado Livre",
-    "precoOriginal": 2489,
-    "precoComDesconto": 1234,
-    "imagemUrl": "https://http2.mlstatic.com/D_896967-MLA89218241898_082025-O.jpg",
-    "link": "https://www.mercadolivre.com.br/forno-eletrico-de-embutir-68l-digital-com-air-fryer-midea-preto/p/MLB53517007"
+    "precoOriginal": 79.99,
+    "precoComDesconto": 36.87,
+    "imagemUrl": "https://http2.mlstatic.com/D_797344-MLA99452539918_112025-O.jpg",
+    "link": "https://www.mercadolivre.com.br/bateria-1800mah-drone-e88-pro-e99-e525-e88max-e99top-20min-voo/p/MLB28233154"
+  },
+  {
+    "titulo": "Dark Lab coqueteleira 700 l",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 39.9,
+    "precoComDesconto": 19.9,
+    "imagemUrl": "https://http2.mlstatic.com/D_784857-MLA99625616614_122025-O.jpg",
+    "link": "https://www.mercadolivre.com.br/dark-lab-coqueteleira-700-l/p/MLB37809946"
+  },
+  {
+    "titulo": "Escova Rotativa Mondial Ceramica Tourmaline Ion 3x1 Erb-01 Rosa 127/220v",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 299,
+    "precoComDesconto": 143,
+    "imagemUrl": "https://http2.mlstatic.com/D_842831-MLA99963285219_112025-O.jpg",
+    "link": "https://www.mercadolivre.com.br/escova-rotativa-mondial-ceramica-tourmaline-ion-3x1-erb-01-rosa-127220v/p/MLB22871761"
   }
 ]
