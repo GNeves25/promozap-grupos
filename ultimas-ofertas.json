@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Cadeira Gamer Profissional Escrit\u00F3rio Ergon\u00F4mica Reclin\u00E1vel Confort\u00E1vel Com Rodinha E Apoio Para P\u00E9s",
-    "marketplace": "Shopee",
-    "precoOriginal": 703.45,
-    "precoComDesconto": 386.9,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-ml58omzds5j8cd",
-    "link": "https://s.shopee.com.br/4qFCepAvrz"
-  },
-  {
-    "titulo": "Caixa De Som JBL Partybox Encore Essencial 2 - Preto",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 3999,
-    "precoComDesconto": 1407,
-    "imagemUrl": "https://http2.mlstatic.com/D_823824-MLA99451835820_112025-O.jpg",
-    "link": "https://www.mercadolivre.com.br/caixa-de-som-jbl-partybox-encore-essencial-2-preto/p/MLB53540006"
-  },
-  {
     "titulo": "Baba Eletr\u00F4nica Baby Monitor Vb603 Vis\u00E3o Noturna Dual Audio Cor Branco Estary Shop",
     "marketplace": "Mercado Livre",
     "precoOriginal": 649,
@@ -48,19 +32,35 @@
     "link": "https://www.mercadolivre.com.br/kit-halteres-e-anilhas-ajustaveis-15kg-para-kettlebell-barras-e-flexoes-marca-als-sports/p/MLB51527013"
   },
   {
-    "titulo": "Bobina \u002B Cdi \u002B Vela Kxt Bicicleta Motorizada 80cc",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 159,
-    "precoComDesconto": 51.99,
-    "imagemUrl": "https://http2.mlstatic.com/D_962719-MLB116405436637_082026-O.jpg",
-    "link": "https://www.mercadolivre.com.br/bobina-cdi-vela-kxt-bicicleta-motorizada-80cc/p/MLB2081742875"
-  },
-  {
     "titulo": "Monitor Port\u00E1til 15.6\u0027\u0027com Usb C Dupla/hdmi Fhd 1080p 60hz",
     "marketplace": "Mercado Livre",
     "precoOriginal": 1100,
     "precoComDesconto": 440,
     "imagemUrl": "https://http2.mlstatic.com/D_626700-MLA99662959648_122025-O.jpg",
     "link": "https://www.mercadolivre.com.br/monitor-portatil-156com-usb-c-duplahdmi-fhd-1080p-60hz/p/MLB62751919"
+  },
+  {
+    "titulo": "Organizador De Mesa Aramado Porta Canetas L\u00E1pis Papel Clips",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 62.59,
+    "precoComDesconto": 20.32,
+    "imagemUrl": "https://http2.mlstatic.com/D_862863-MLB109632689483_032026-O.jpg",
+    "link": "https://www.mercadolivre.com.br/organizador-de-mesa-com-3-compartimentos-aramado-preto-fosco/p/MLB2042637608"
+  },
+  {
+    "titulo": "R\u00E1dio Retr\u00F4 Vintage Port\u00E1til AM/FM Bluetooth USB Marrom",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 159.99,
+    "precoComDesconto": 61.69,
+    "imagemUrl": "https://http2.mlstatic.com/D_795556-MLA114659232902_082026-O.jpg",
+    "link": "https://www.mercadolivre.com.br/radio-retro-vintage-portatil-amfm-bluetooth-usb-marrom/p/MLB26885943"
+  },
+  {
+    "titulo": "Roda Ferro A\u00E7o Aro 14 Fiat Diversos Modelos 52059490 Fiat Cor Preto",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 752.59,
+    "precoComDesconto": 316.09,
+    "imagemUrl": "https://http2.mlstatic.com/D_611759-MLA99823197757_112025-O.jpg",
+    "link": "https://www.mercadolivre.com.br/roda-ferro-aco-aro-14-fiat-diversos-modelos-52059490-fiat-cor-preto/p/MLB47016312"
   }
 ]
