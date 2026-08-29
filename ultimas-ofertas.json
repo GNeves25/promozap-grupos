@@ -8,14 +8,6 @@
     "link": "https://s.shopee.com.br/8fRw1KTDVI"
   },
   {
-    "titulo": "Vestido \u002B La\u00E7o Infantil Luxo Menina Vermelho Azul Rosa Preto Festa Princesa Aniversario Casamento",
-    "marketplace": "Shopee",
-    "precoOriginal": 99,
-    "precoComDesconto": 50.49,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820lv-mr7cq6svf1fr86",
-    "link": "https://s.shopee.com.br/9KhccBof9o"
-  },
-  {
     "titulo": "Kit 3 Perfumes Malbec Masculinos Alta fixa\u00E7\u00E3o",
     "marketplace": "Shopee",
     "precoOriginal": 49.99,
@@ -62,5 +54,13 @@
     "precoComDesconto": 224.99,
     "imagemUrl": "https://http2.mlstatic.com/D_939008-MLA79592648235_092024-O.jpg",
     "link": "https://www.mercadolivre.com.br/perfume-masculino-azzaro-chrome-legend-edt-100ml/p/MLB35713851"
+  },
+  {
+    "titulo": "Bola De Fogo Autom\u00E1tica Para Inc\u00EAndio 500gr  ",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 188.83,
+    "precoComDesconto": 95.24,
+    "imagemUrl": "https://http2.mlstatic.com/D_930334-MLB107257297496_032026-O.jpg",
+    "link": "https://www.mercadolivre.com.br/bola-de-fogo-automatica-para-incendio-500gr/p/MLB2091179440"
   }
 ]
