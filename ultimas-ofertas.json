@@ -16,22 +16,6 @@
     "link": "https://s.shopee.com.br/7VFydBTKNv"
   },
   {
-    "titulo": "Palette Eudora Niina Secrets Neutrals 5.6g",
-    "marketplace": "Shopee",
-    "precoOriginal": 149.24,
-    "precoComDesconto": 99.99,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820mc-mrp2t4j2z8jpe1",
-    "link": "https://s.shopee.com.br/6L412g05EZ"
-  },
-  {
-    "titulo": "Kit Jogo De Chave Catraca Soquete 46 Pe\u00E7as Combo Jogo Ferramentas Profissional Ditap Variedades",
-    "marketplace": "Shopee",
-    "precoOriginal": 76.55,
-    "precoComDesconto": 48.99,
-    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-81zup-mmm6ohwfqozp25",
-    "link": "https://s.shopee.com.br/BTE7dlwYG"
-  },
-  {
     "titulo": "Celular Samsung Galaxy A37 5g 256gb, 8gb Ram, C\u00E2mera 50mp Verde-escuro",
     "marketplace": "Mercado Livre",
     "precoOriginal": 3599,
@@ -62,5 +46,21 @@
     "precoComDesconto": 95.24,
     "imagemUrl": "https://http2.mlstatic.com/D_930334-MLB107257297496_032026-O.jpg",
     "link": "https://www.mercadolivre.com.br/bola-de-fogo-automatica-para-incendio-500gr/p/MLB2091179440"
+  },
+  {
+    "titulo": "Embalagens Br\u00E1s Pistola Para Colocar Etiqueta De Roupas Maquina Etiquetadora \u002B 1000 Pinus \u002B 1000 Etiquetas Aplicador Pino Pl\u00E1stico Tag Fix",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 69.99,
+    "precoComDesconto": 35.15,
+    "imagemUrl": "https://http2.mlstatic.com/D_941545-MLA110123538462_042026-O.jpg",
+    "link": "https://www.mercadolivre.com.br/embalagens-bras-pistola-para-colocar-etiqueta-de-roupas-maquina-etiquetadora-1000-pinus-1000-etiquetas-aplicador-pino-plastico-tag-fix/p/MLB38806787"
+  },
+  {
+    "titulo": "Hidratante Corporal Cereja Negra E Pralin\u00E9 400ml - Natura",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 78.9,
+    "precoComDesconto": 40.4,
+    "imagemUrl": "https://http2.mlstatic.com/D_869191-MLA84661478117_052025-O.jpg",
+    "link": "https://www.mercadolivre.com.br/hidratante-corporal-cereja-negra-e-praline-400ml-natura/p/MLB49961999"
   }
 ]
