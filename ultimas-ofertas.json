@@ -1,5 +1,13 @@
 [
   {
+    "titulo": "Body Splash 200ml - O Botic\u00E1rio",
+    "marketplace": "Shopee",
+    "precoOriginal": 165,
+    "precoComDesconto": 63,
+    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820l8-mobn78rta5mt65",
+    "link": "https://s.shopee.com.br/8AV0g5yody"
+  },
+  {
     "titulo": " Kit de Extens\u00E3o de C\u00EDlios, Textura Volumosa 5D, Design para C\u00EDlios Inferiores, Estilo Denso, Caixa \u00DAnica, com",
     "marketplace": "Shopee",
     "precoOriginal": 153.83,
@@ -54,13 +62,5 @@
     "precoComDesconto": 620,
     "imagemUrl": "https://http2.mlstatic.com/D_889990-MLA91931596056_092025-O.jpg",
     "link": "https://www.mercadolivre.com.br/kit-8-cadeiras-allegra-la-mobilila-preta-em-polipropileno-estrutura-da-cadeira-preto-assento-preto/p/MLB55924943"
-  },
-  {
-    "titulo": "Port\u00E1til B\u0026G Mini Compressor",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 199.98,
-    "precoComDesconto": 60.47,
-    "imagemUrl": "https://http2.mlstatic.com/D_884639-MLA112856291753_062026-O.jpg",
-    "link": "https://www.mercadolivre.com.br/portatil-bg-mini-compressor/p/MLB20562024"
   }
 ]
