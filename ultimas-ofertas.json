@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Conjunto Colar e Pulseira Feminino Dourado com Pedras Coloridas Estilo Vintage para Festa",
-    "marketplace": "Shopee",
-    "precoOriginal": 82.83,
-    "precoComDesconto": 28.99,
-    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-825bc-mqft1y5k5fyjc1",
-    "link": "https://s.shopee.com.br/3VjRbYmKiV"
-  },
-  {
     "titulo": "Rabo de Cavalo Cacheado Volumoso Bio Fibra",
     "marketplace": "Shopee",
     "precoOriginal": 128,
@@ -40,14 +32,6 @@
     "link": "https://s.shopee.com.br/3qMeGnkwk7"
   },
   {
-    "titulo": "Kit Potes Herm\u00E9ticos Vidro 800ml, 600ml, 400ml e 310ml Marmita Refrat\u00E1ria Tampa com Trava",
-    "marketplace": "Shopee",
-    "precoOriginal": 149,
-    "precoComDesconto": 39,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mn06b3314ydea0",
-    "link": "https://s.shopee.com.br/AAGZEYhOdR"
-  },
-  {
     "titulo": "Suporte de Parede para Papel Higi\u00EAnico - Design Moderno Pr\u00E1tico e Funcional",
     "marketplace": "Shopee",
     "precoOriginal": 79.87,
@@ -62,5 +46,21 @@
     "precoComDesconto": 28.5,
     "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820mf-mmkiexwm76rk39",
     "link": "https://s.shopee.com.br/4VbiVitKOw"
+  },
+  {
+    "titulo": "Panela Ca\u00E7arola 20 24 26 e 28cm Revestimento Ceramico Aluminio Prensado Antirespingo Indu\u00E7\u00E3o Forno Lava-lou\u00E7as",
+    "marketplace": "Shopee",
+    "precoOriginal": 268.95,
+    "precoComDesconto": 155.99,
+    "imagemUrl": "https://cf.shopee.com.br/file/br-11134201-820lx-mr8upifrcpon3d",
+    "link": "https://s.shopee.com.br/2LXaJquPnc"
+  },
+  {
+    "titulo": "Mop Girat\u00F3rio com Balde Centr\u00EDfuga 14L Cabo Inoxid\u00E1vel Extens\u00EDvel 1,40m \u002B 2 Esfreg\u00F5es Microfibra",
+    "marketplace": "Shopee",
+    "precoOriginal": 119.35,
+    "precoComDesconto": 54.9,
+    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhq6zndys9ab92",
+    "link": "https://s.shopee.com.br/5VUdw7tMdF"
   }
 ]
