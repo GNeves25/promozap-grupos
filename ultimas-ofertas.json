@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Perfume Asad Bourbon Lattafa 100ml",
-    "marketplace": "Shopee",
-    "precoOriginal": 200,
-    "precoComDesconto": 94,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mmwigpxiffuse2",
-    "link": "https://s.shopee.com.br/9fKN1f81Yo"
-  },
-  {
-    "titulo": "Babuche Infantil Menino Personagens Sand\u00E1lia Chinelo Confort\u00E1vel Masculino",
-    "marketplace": "Shopee",
-    "precoOriginal": 36.74,
-    "precoComDesconto": 16.9,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meis3tjimf4054",
-    "link": "https://s.shopee.com.br/8V8PpsswyC"
-  },
-  {
     "titulo": "Escaleta Melodica Bert\u00F4 Preto 32 Teclas Capa Bocal Mangueira",
     "marketplace": "Mercado Livre",
     "precoOriginal": 221.58,
@@ -62,5 +46,21 @@
     "precoComDesconto": 89.9,
     "imagemUrl": "https://http2.mlstatic.com/D_746605-MLA99960420259_112025-O.jpg",
     "link": "https://www.mercadolivre.com.br/relogio-masculino-dourado-saint-germain-correia-de-couro-preto-caixa-dourada-fundo-branco-40mm-elegante-classico/p/MLB54549970"
+  },
+  {
+    "titulo": "Hipercal\u00F3rico Dark Mass 3kg Chocolate Branco c/ Morango Dark Lab",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 249.9,
+    "precoComDesconto": 74.95,
+    "imagemUrl": "https://http2.mlstatic.com/D_894319-MLA99934921621_112025-O.jpg",
+    "link": "https://www.mercadolivre.com.br/hipercalorico-dark-mass-3kg-chocolate-branco-c-morango-dark-lab/p/MLB19451610"
+  },
+  {
+    "titulo": "Lavitan Melatonina 90 Comprimidos Mastig\u00E1veis Morango",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 47,
+    "precoComDesconto": 19.17,
+    "imagemUrl": "https://http2.mlstatic.com/D_717608-MLA100084647249_122025-O.jpg",
+    "link": "https://www.mercadolivre.com.br/lavitan-melatonina-90-comprimidos-mastigaveis-morango/p/MLB19533290"
   }
 ]
