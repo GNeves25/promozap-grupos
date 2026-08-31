@@ -1,5 +1,21 @@
 [
   {
+    "titulo": "Perfume Asad Bourbon Lattafa 100ml",
+    "marketplace": "Shopee",
+    "precoOriginal": 200,
+    "precoComDesconto": 94,
+    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820ma-mmwigpxiffuse2",
+    "link": "https://s.shopee.com.br/9fKN1f81Yo"
+  },
+  {
+    "titulo": "Babuche Infantil Menino Personagens Sand\u00E1lia Chinelo Confort\u00E1vel Masculino",
+    "marketplace": "Shopee",
+    "precoOriginal": 36.74,
+    "precoComDesconto": 16.9,
+    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-meis3tjimf4054",
+    "link": "https://s.shopee.com.br/8V8PpsswyC"
+  },
+  {
     "titulo": "Kit Lola Cosmetics Rapunzel Original | T\u00F4nico Antiqueda 250ml \u002B Acidificante 250ml | Crescimento e Fortalecimento",
     "marketplace": "Shopee",
     "precoOriginal": 89.27,
@@ -14,22 +30,6 @@
     "precoComDesconto": 54.9,
     "imagemUrl": "https://http2.mlstatic.com/D_851612-MLA115902375529_082026-O.jpg",
     "link": "https://www.mercadolivre.com.br/frigideira-ceramica-antiaderente-24cm-inducao-cooktop-fogao-a-gas-nao-gruda-sem-oleo-cor-creme/p/MLB76151285"
-  },
-  {
-    "titulo": "Chaleira El\u00E9trica Inox 2 Litros 1500w Jarra Desligamento Autom\u00E1tico Aquecimento R\u00E1pido Bule P\u00EDtia",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 119.99,
-    "precoComDesconto": 44.99,
-    "imagemUrl": "https://http2.mlstatic.com/D_608715-MLA114299188035_072026-O.jpg",
-    "link": "https://www.mercadolivre.com.br/chaleira-eletrica-inox-2-litros-1500w-jarra-desligamento-automatico-aquecimento-rapido-bule-pitia/p/MLB75226094"
-  },
-  {
-    "titulo": "Lixeira Smart Inteligente 16 Litros Quadrada Sensor De Movimento Autom\u00E1tico No Touch Preta",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 157.98,
-    "precoComDesconto": 61.96,
-    "imagemUrl": "https://http2.mlstatic.com/D_778831-MLA113000113026_072026-O.jpg",
-    "link": "https://www.mercadolivre.com.br/lixeira-smart-inteligente-16-litros-quadrada-sensor-de-movimento-automatico-no-touch-preta/p/MLB75011667"
   },
   {
     "titulo": "Kit Wella Invigo Enrich Pro Sh 1l \u002B Cond 1l \u002B Masc 500 Ml",
