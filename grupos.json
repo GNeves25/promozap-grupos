@@ -7,6 +7,13 @@
     "link": "https://chat.whatsapp.com/DXdBE7GnbWYB1nk22PfkrF"
   },
   {
+    "nichoChave": "telegram-ofertas",
+    "nome": "PromoZap — Ofertas Selecionadas (Telegram)",
+    "emoji": "✈️",
+    "descricao": "Mesmo feed do grupo principal, só que no Telegram — pra quem prefere esse app.",
+    "link": "https://t.me/+D9M5jMv6IGg2ZDNh"
+  },
+  {
     "nichoChave": "tech",
     "nome": "PromoZap Tech",
     "emoji": "💻",
@@ -68,12 +75,5 @@
     "emoji": "👟",
     "descricao": "Só tênis Nike, Adidas e Under Armour — o melhor das marcas premium.",
     "link": "https://chat.whatsapp.com/J048FNjResZ0toBg4Rm0fn"
-  },
-  {
-    "nichoChave": "telegram-ofertas",
-    "nome": "PromoZap — Ofertas Selecionadas (Telegram)",
-    "emoji": "📨",
-    "descricao": "Mesmo feed do grupo principal, só que no Telegram — pra quem prefere esse app.",
-    "link": "https://t.me/+D9M5jMv6IGg2ZDNh"
   }
 ]
