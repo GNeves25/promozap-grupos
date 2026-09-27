@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Mop Girat\u00F3rio 360 Cabo 140cm Balde Centr\u00EDfuga Cesto Inox 14L 2 Refis Microfibra Esfreg\u00E3o Spin",
-    "marketplace": "Shopee",
-    "precoOriginal": 199.67,
-    "precoComDesconto": 59.9,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-mcjqyiwcabea5c",
-    "link": "https://s.shopee.com.br/904tVNH9lO"
-  },
-  {
     "titulo": "Kit 2 Em 1 Esmerilhadeira port\u00E1til 21V Chave de Impacto \u002B Parafusadeira Impacto Angular e caixa 2 baterias",
     "marketplace": "Shopee",
     "precoOriginal": 1194.42,
@@ -24,12 +16,20 @@
     "link": "https://s.shopee.com.br/1LfgQdogrf"
   },
   {
+    "titulo": "Lava Roupas Lavanderia Pro L\u00EDquido 7L Omo",
+    "marketplace": "Shopee",
+    "precoOriginal": 146.25,
+    "precoComDesconto": 81.9,
+    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-7rau5-mau62igmy63506",
+    "link": "https://s.shopee.com.br/9fLDJRnEcK"
+  },
+  {
     "titulo": "iPhone 16e (128 GB) - Branco - Distribuidor Autorizado",
     "marketplace": "Mercado Livre",
     "precoOriginal": 5799,
     "precoComDesconto": 3617,
     "imagemUrl": "https://http2.mlstatic.com/D_938094-MLA96869129517_102025-O.jpg",
-    "link": "https://meli.la/1FDpNVs"
+    "link": "https://www.mercadolivre.com.br/iphone-16e-128-gb-branco-distribuidor-autorizado/p/MLB1046217031"
   },
   {
     "titulo": "iPhone 16e (128 GB) - Branco - Distribuidor Autorizado",
@@ -53,7 +53,7 @@
     "precoOriginal": 5799,
     "precoComDesconto": 3617,
     "imagemUrl": "https://http2.mlstatic.com/D_938094-MLA96869129517_102025-O.jpg",
-    "link": "https://www.mercadolivre.com.br/iphone-16e-128-gb-branco-distribuidor-autorizado/p/MLB1046217031"
+    "link": "https://meli.la/1FDpNVs"
   },
   {
     "titulo": "Smart Tv Philco 65 P65cga Qled Mini Led Quantum 4k Uhd Google Tv Wifi Bluetooth 110/220v",
