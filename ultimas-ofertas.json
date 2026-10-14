@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Patinete El\u00E9trico 3 Rodas Triciclo Infantil Drift 350w 65kg Cor Fogo E \u00C1gua",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 1999,
-    "precoComDesconto": 852.48,
-    "imagemUrl": "https://http2.mlstatic.com/D_685174-MLA112630890319_062026-O.jpg",
-    "link": "https://meli.la/1YdrVjN"
-  },
-  {
     "titulo": "Jipe Infantil El\u00E9trico 12v Carrinho Controle Remoto M\u00FAsica Cor Cinza-escuro Voltagem Do Carregador 110v/220v",
     "marketplace": "Mercado Livre",
     "precoOriginal": 2100,
@@ -48,19 +40,27 @@
     "link": "https://s.shopee.com.br/AUt3FJu5q7"
   },
   {
-    "titulo": "Medicube PDRN Pink Collagen Capsule Cream 55g",
+    "titulo": "\u00D3leo Finalizador \u00D3leo Extraordin\u00E1rio, Anti Frizz, Protetor T\u00E9rmico, L\u0027Or\u00E9al Paris Elseve 100ml",
     "marketplace": "Shopee",
-    "precoOriginal": 271.07,
-    "precoComDesconto": 151.8,
-    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134207-7rfhi-m9uzho0bllexc4",
-    "link": "https://s.shopee.com.br/AUt3FJu5q7"
+    "precoOriginal": 60.30,
+    "precoComDesconto": 37.99,
+    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-msof4dg2rnyc07",
+    "link": "https://s.shopee.com.br/4LJNAtiedt"
   },
   {
-    "titulo": "Medicube PDRN Pink Collagen Capsule Cream 55g",
+    "titulo": "\u00D3leo Finalizador \u00D3leo Extraordin\u00E1rio, Anti Frizz, Protetor T\u00E9rmico, L\u0027Or\u00E9al Paris Elseve 100ml",
     "marketplace": "Shopee",
-    "precoOriginal": 271.07,
-    "precoComDesconto": 151.8,
-    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134207-7rfhi-m9uzho0bllexc4",
-    "link": "https://s.shopee.com.br/AUt3FJu5q7"
+    "precoOriginal": 60.30,
+    "precoComDesconto": 37.99,
+    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-msof4dg2rnyc07",
+    "link": "https://s.shopee.com.br/4LJNAtiedt"
+  },
+  {
+    "titulo": "\u00D3leo Finalizador \u00D3leo Extraordin\u00E1rio, Anti Frizz, Protetor T\u00E9rmico, L\u0027Or\u00E9al Paris Elseve 100ml",
+    "marketplace": "Shopee",
+    "precoOriginal": 60.30,
+    "precoComDesconto": 37.99,
+    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-msof4dg2rnyc07",
+    "link": "https://s.shopee.com.br/4LJNAtiedt"
   }
 ]
