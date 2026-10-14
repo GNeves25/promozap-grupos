@@ -32,14 +32,6 @@
     "link": "https://s.shopee.com.br/gQmRJaYmf"
   },
   {
-    "titulo": "Xiaomi Poco X7 Pro 5g 12ram /512 Gb Verde Global",
-    "marketplace": "Mercado Livre",
-    "precoOriginal": 4690,
-    "precoComDesconto": 2253,
-    "imagemUrl": "https://http2.mlstatic.com/D_810360-MLA100189072011_122025-O.jpg",
-    "link": "https://meli.la/1s6DAt2"
-  },
-  {
     "titulo": "Cadeira De Escrit\u00F3rio Eiffel Max Base Girat\u00F3ria Cor Nude",
     "marketplace": "Mercado Livre",
     "precoOriginal": 329.99,
@@ -62,5 +54,13 @@
     "precoComDesconto": 156,
     "imagemUrl": "https://http2.mlstatic.com/D_613563-MLU74331160090_022024-O.jpg",
     "link": "https://meli.la/1G7TMvj"
+  },
+  {
+    "titulo": "Celular Samsung Galaxy A07 256gb 8gb C\u00E2mera 50mp Verde",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 1799,
+    "precoComDesconto": 879,
+    "imagemUrl": "https://http2.mlstatic.com/D_778917-MLA91526601104_092025-O.jpg",
+    "link": "https://meli.la/1cFrrhv"
   }
 ]
