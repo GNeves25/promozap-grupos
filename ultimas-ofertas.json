@@ -1,29 +1,5 @@
 [
   {
-    "titulo": "Attracione Men (Perfume Masculino com Ferom\u00F4nios Ativados)",
-    "marketplace": "Shopee",
-    "precoOriginal": 289.1,
-    "precoComDesconto": 57.82,
-    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
-    "link": "https://s.shopee.com.br/9V0W3Txtrx"
-  },
-  {
-    "titulo": "Attracione Men (Perfume Masculino com Ferom\u00F4nios Ativados)",
-    "marketplace": "Shopee",
-    "precoOriginal": 289.1,
-    "precoComDesconto": 57.82,
-    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
-    "link": "https://s.shopee.com.br/9V0W3Txtrx"
-  },
-  {
-    "titulo": "Attracione Men (Perfume Masculino com Ferom\u00F4nios Ativados)",
-    "marketplace": "Shopee",
-    "precoOriginal": 289.1,
-    "precoComDesconto": 57.82,
-    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-7repr-m2v3wdwedwcb1f",
-    "link": "https://s.shopee.com.br/9V0W3Txtrx"
-  },
-  {
     "titulo": "Alvejante Percarbonato de S\u00F3dio Calisul 99% Puro Sem Cloro Limpeza Roupa Branca Colorida Clareador Tira Mancha",
     "marketplace": "Shopee",
     "precoOriginal": 39.85,
@@ -62,5 +38,29 @@
     "precoComDesconto": 852.48,
     "imagemUrl": "https://http2.mlstatic.com/D_685174-MLA112630890319_062026-O.jpg",
     "link": "https://meli.la/1YdrVjN"
+  },
+  {
+    "titulo": "Patinete El\u00E9trico 3 Rodas Triciclo Infantil Drift 350w 65kg Cor Fogo E \u00C1gua",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 1999,
+    "precoComDesconto": 852.48,
+    "imagemUrl": "https://http2.mlstatic.com/D_685174-MLA112630890319_062026-O.jpg",
+    "link": "https://www.mercadolivre.com.br/patinete-eletrico-3-rodas-triciclo-infantil-drift-350w-65kg-cor-fogo-e-agua/p/MLB63085571"
+  },
+  {
+    "titulo": "Patinete El\u00E9trico 3 Rodas Triciclo Infantil Drift 350w 65kg Cor Fogo E \u00C1gua",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 1999,
+    "precoComDesconto": 852.48,
+    "imagemUrl": "https://http2.mlstatic.com/D_685174-MLA112630890319_062026-O.jpg",
+    "link": "https://meli.la/1YdrVjN"
+  },
+  {
+    "titulo": "Cadeira de Escrit\u00F3rio Ergon\u00F4mica Python Fly com Cabide, Apoio de Cabe\u00E7a e Suporte Lombar",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 770,
+    "precoComDesconto": 322.99,
+    "imagemUrl": "https://http2.mlstatic.com/D_988492-MLA95660063276_102025-O.jpg",
+    "link": "https://meli.la/2Pfw8qJ"
   }
 ]
