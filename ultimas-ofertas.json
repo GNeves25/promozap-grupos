@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Um conjunto de joias de ouro ou prata, com 3 ou 4 pe\u00E7as e diamantes simulados elegante e luxuoso ideal para um casamento",
-    "marketplace": "Shopee",
-    "precoOriginal": 90.88,
-    "precoComDesconto": 29.99,
-    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-81zuy-mn16vc5f2nt139",
-    "link": "https://s.shopee.com.br/7VFQsLuI3v"
-  },
-  {
-    "titulo": "Um conjunto de joias de ouro ou prata, com 3 ou 4 pe\u00E7as e diamantes simulados elegante e luxuoso ideal para um casamento",
-    "marketplace": "Shopee",
-    "precoOriginal": 90.88,
-    "precoComDesconto": 29.99,
-    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-81zuy-mn16vc5f2nt139",
-    "link": "https://s.shopee.com.br/7VFQsLuI3v"
-  },
-  {
     "titulo": "Bota infantil Bota feminina Botinha infantil feminina Bota do 20 ao 27",
     "marketplace": "Shopee",
     "precoOriginal": 110.19,
@@ -48,19 +32,35 @@
     "link": "https://s.shopee.com.br/6Aklj89YMW"
   },
   {
-    "titulo": "Descascador El\u00E9trico Multifuncional Recarreg\u00E1vel para Frutas Legumes Uvas Alho e Tomate",
-    "marketplace": "Shopee",
-    "precoOriginal": 199.96,
-    "precoComDesconto": 55.99,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mrfjark11y4kef",
-    "link": "https://s.shopee.com.br/6Aklj89YMW"
+    "titulo": "Hivi Fone De Ouvido Bluetooth 5.0 Par Sem Fio Duplo Cor Preto",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 39.99,
+    "precoComDesconto": 25.99,
+    "imagemUrl": "https://http2.mlstatic.com/D_903714-MLA114806260722_082026-O.jpg",
+    "link": "https://meli.la/2aDXS2c"
   },
   {
-    "titulo": "Descascador El\u00E9trico Multifuncional Recarreg\u00E1vel para Frutas Legumes Uvas Alho e Tomate",
-    "marketplace": "Shopee",
-    "precoOriginal": 199.96,
-    "precoComDesconto": 55.99,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820m0-mrfjark11y4kef",
-    "link": "https://s.shopee.com.br/6Aklj89YMW"
+    "titulo": "Hivi Fone De Ouvido Bluetooth 5.0 Par Sem Fio Duplo Cor Preto",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 39.99,
+    "precoComDesconto": 25.99,
+    "imagemUrl": "https://http2.mlstatic.com/D_903714-MLA114806260722_082026-O.jpg",
+    "link": "https://www.mercadolivre.com.br/hivi-fone-de-ouvido-bluetooth-50-par-sem-fio-duplo-cor-preto/p/MLB53198002"
+  },
+  {
+    "titulo": "Hivi Fone De Ouvido Bluetooth 5.0 Par Sem Fio Duplo Cor Preto",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 39.99,
+    "precoComDesconto": 25.99,
+    "imagemUrl": "https://http2.mlstatic.com/D_903714-MLA114806260722_082026-O.jpg",
+    "link": "https://meli.la/2aDXS2c"
+  },
+  {
+    "titulo": "Celular Samsung Galaxy A07 128gb, 4gb, C\u00E2mera 50mp, Tela 6.7 , Prote\u00E7\u00E3o Ip54, Processador 6nm - Violeta",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 1049,
+    "precoComDesconto": 719.1,
+    "imagemUrl": "https://http2.mlstatic.com/D_765861-MLA95532186080_102025-O.jpg",
+    "link": "https://meli.la/2Aqisv1"
   }
 ]
