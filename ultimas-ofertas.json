@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Kit Potes Herm\u00E9ticos Vidro 800ml, 600ml, 400ml e 310ml Marmita Refrat\u00E1ria Tampa com Trava",
-    "marketplace": "Shopee",
-    "precoOriginal": 149,
-    "precoComDesconto": 39,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mn06b3314ydea0",
-    "link": "https://s.shopee.com.br/8V7nuxP5xt"
-  },
-  {
     "titulo": "Kit com 2 Fones de Ouvido P2 Premium Original com Microfone e Confort\u00E1vel",
     "marketplace": "Shopee",
     "precoOriginal": 29.9,
@@ -56,11 +48,19 @@
     "link": "https://meli.la/2kZ2wqv"
   },
   {
-    "titulo": "Gloss Volumoso Big Mouth com Hialur\u00F4nico - Rosa Ph\u00E1llebeauty 4 ml",
-    "marketplace": "Shopee",
-    "precoOriginal": 21.83,
-    "precoComDesconto": 13.97,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhddr8e98mbr8f",
-    "link": "https://s.shopee.com.br/7KvyslRwHg"
+    "titulo": "Celular Samsung Galaxy A37 5g 256gb, 8gb Ram, C\u00E2mera 50mp Branco",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 3599,
+    "precoComDesconto": 1889,
+    "imagemUrl": "https://http2.mlstatic.com/D_932505-MLA112629935132_062026-O.jpg",
+    "link": "https://meli.la/32yHiK5"
+  },
+  {
+    "titulo": "Celular Samsung Galaxy A37 5g 256gb, 8gb Ram, C\u00E2mera 50mp Branco",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 3599,
+    "precoComDesconto": 1889,
+    "imagemUrl": "https://http2.mlstatic.com/D_932505-MLA112629935132_062026-O.jpg",
+    "link": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a37-5g-256gb-8gb-ram-camera-50mp-branco/p/MLB68085223"
   }
 ]
