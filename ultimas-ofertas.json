@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Conjunto de brincos de metal e p\u00E9rolas de 6/12 pe\u00E7as em ouro/prata, elegantes e luxuosos, perfeitos para presentes",
-    "marketplace": "Shopee",
-    "precoOriginal": 49.98,
-    "precoComDesconto": 19.99,
-    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-82588-mg3f2zldvv2j76",
-    "link": "https://s.shopee.com.br/1qckpI5gdz"
-  },
-  {
-    "titulo": "Conjunto de brincos de metal e p\u00E9rolas de 6/12 pe\u00E7as em ouro/prata, elegantes e luxuosos, perfeitos para presentes",
-    "marketplace": "Shopee",
-    "precoOriginal": 49.98,
-    "precoComDesconto": 19.99,
-    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-82588-mg3f2zldvv2j76",
-    "link": "https://s.shopee.com.br/1qckpI5gdz"
-  },
-  {
     "titulo": "Anel Aberto de Zirc\u00F4nia Verde Estilo Banhado a Ouro 18K n\u00E3o ir\u00E1 descolorir Anel Verde Esmeralda",
     "marketplace": "Shopee",
     "precoOriginal": 52.19,
@@ -62,5 +46,21 @@
     "precoComDesconto": 28.8,
     "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj85eqd4l4w3a1",
     "link": "https://s.shopee.com.br/6q15oHiomA"
+  },
+  {
+    "titulo": "Cadeira Gamer X-ray Para Jogos/escrit\u00F3rio Confort\u00E1vel Cor Black",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 1190,
+    "precoComDesconto": 518.9,
+    "imagemUrl": "https://http2.mlstatic.com/D_683636-MLA110860943472_052026-O.jpg",
+    "link": "https://www.mercadolivre.com.br/cadeira-gamer-x-ray-para-jogosescritorio-confortavel-cor-black/p/MLB69898768"
+  },
+  {
+    "titulo": "Cadeira Gamer X-ray Para Jogos/escrit\u00F3rio Confort\u00E1vel Cor Black",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 1190,
+    "precoComDesconto": 518.9,
+    "imagemUrl": "https://http2.mlstatic.com/D_683636-MLA110860943472_052026-O.jpg",
+    "link": "https://www.mercadolivre.com.br/cadeira-gamer-x-ray-para-jogosescritorio-confortavel-cor-black/p/MLB69898768"
   }
 ]
