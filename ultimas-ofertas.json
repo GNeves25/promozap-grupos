@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Kit Potes Herm\u00E9ticos Vidro 800ml, 600ml, 400ml e 310ml Marmita Refrat\u00E1ria Tampa com Trava",
-    "marketplace": "Shopee",
-    "precoOriginal": 149,
-    "precoComDesconto": 39,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mn06b3314ydea0",
-    "link": "https://s.shopee.com.br/8V7nuxP5xt"
-  },
-  {
     "titulo": "Kit com 2 Fones de Ouvido P2 Premium Original com Microfone e Confort\u00E1vel",
     "marketplace": "Shopee",
     "precoOriginal": 29.9,
@@ -62,5 +54,13 @@
     "precoComDesconto": 1876,
     "imagemUrl": "https://http2.mlstatic.com/D_953261-MLA114603178675_072026-O.jpg",
     "link": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a57-5g-128gb-8gb-ram-camera-50mp-ip68-super-amoled-67-recursos-ai-lilas/p/MLB68213841"
+  },
+  {
+    "titulo": "Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, C\u00E2mera 50MP, IP68, Super AMOLED 6.7\u0022, Recursos AI - Lil\u00E1s",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 3599,
+    "precoComDesconto": 1876,
+    "imagemUrl": "https://http2.mlstatic.com/D_953261-MLA114603178675_072026-O.jpg",
+    "link": "https://meli.la/2kZ2wqv"
   }
 ]
