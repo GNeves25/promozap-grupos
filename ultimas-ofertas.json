@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Vestido Longo Florido Babado Manga Botao Frontal Al\u00E7a Dupla",
-    "marketplace": "Shopee",
-    "precoOriginal": 115,
-    "precoComDesconto": 93.15,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m29kz6mt0sp2a6",
-    "link": "https://s.shopee.com.br/4VbqXW3pQi"
-  },
-  {
-    "titulo": "Vestido Longo Florido Babado Manga Botao Frontal Al\u00E7a Dupla",
-    "marketplace": "Shopee",
-    "precoOriginal": 115,
-    "precoComDesconto": 93.15,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-7r98o-m29kz6mt0sp2a6",
-    "link": "https://s.shopee.com.br/4VbqXW3pQi"
-  },
-  {
     "titulo": "Pente El\u00E9trico Alisador Cabelo Aquecimento Milti-fucional Prancha Alisadora Artiga",
     "marketplace": "Shopee",
     "precoOriginal": 78.64,
@@ -62,5 +46,21 @@
     "precoComDesconto": 2398,
     "imagemUrl": "https://http2.mlstatic.com/D_800527-MLA114603389639_072026-O.jpg",
     "link": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a57-5g-256gb-8gb-ram-recursos-ai-cinza/p/MLB68212479"
+  },
+  {
+    "titulo": "Celular Samsung Galaxy A57 5G 256GB, 8GB RAM, Recursos AI - Cinza",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 4299,
+    "precoComDesconto": 2398,
+    "imagemUrl": "https://http2.mlstatic.com/D_800527-MLA114603389639_072026-O.jpg",
+    "link": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a57-5g-256gb-8gb-ram-recursos-ai-cinza/p/MLB68212479"
+  },
+  {
+    "titulo": "Celular Samsung Galaxy A57 5G 256GB, 8GB RAM, Recursos AI - Cinza",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 4299,
+    "precoComDesconto": 2398,
+    "imagemUrl": "https://http2.mlstatic.com/D_800527-MLA114603389639_072026-O.jpg",
+    "link": "https://meli.la/2tvueG1"
   }
 ]
