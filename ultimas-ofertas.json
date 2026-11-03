@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Kit Maca Power Completo com 7 Produtos \u2013 Cronograma Capilar \u002B M\u00E1scara 500g, Shampoo 1L, Condicionador 1L  Reparador 50ml",
-    "marketplace": "Shopee",
-    "precoOriginal": 569.23,
-    "precoComDesconto": 74,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820lx-mn35aptzvev454",
-    "link": "https://s.shopee.com.br/30ng9z6FBD"
-  },
-  {
     "titulo": "Celimax The Vita A Retinal Shot Tightening Booster 15ml",
     "marketplace": "Shopee",
     "precoOriginal": 219.35,
@@ -62,5 +54,13 @@
     "precoComDesconto": 36.98,
     "imagemUrl": "https://http2.mlstatic.com/D_807092-MLA100966388363_122025-O.jpg",
     "link": "https://meli.la/2NEDeFw"
+  },
+  {
+    "titulo": "Webcam Camera Full Hd Zoom 1080p 360 Graus Videoconferencia Streamcam Web Cam Entrada Usb 2.0 Com Microfone- GoodVision",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 78,
+    "precoComDesconto": 36.98,
+    "imagemUrl": "https://http2.mlstatic.com/D_807092-MLA100966388363_122025-O.jpg",
+    "link": "https://www.mercadolivre.com.br/webcam-camera-full-hd-zoom-1080p-360-graus-videoconferencia-streamcam-web-cam-entrada-usb-20-com-microfone-goodvision/p/MLB46220824"
   }
 ]
