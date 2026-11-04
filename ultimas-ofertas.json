@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Secador De Cabelo Taiff Black Ion Profissional Original2000W",
-    "marketplace": "Shopee",
-    "precoOriginal": 499.98,
-    "precoComDesconto": 269.99,
-    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-822zv-moe6cpfbjkzt52",
-    "link": "https://s.shopee.com.br/2qUFxg6sW8"
-  },
-  {
-    "titulo": "Secador De Cabelo Taiff Black Ion Profissional Original2000W",
-    "marketplace": "Shopee",
-    "precoOriginal": 499.98,
-    "precoComDesconto": 269.99,
-    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-822zv-moe6cpfbjkzt52",
-    "link": "https://s.shopee.com.br/2qUFxg6sW8"
-  },
-  {
     "titulo": "Escova Secadora Alisador El\u00E9trica Quente Cabelo Com 3 Em1 Hair Styler Secar, alisar e dar volume ao cabelo 110V",
     "marketplace": "Shopee",
     "precoOriginal": 108.08,
@@ -62,5 +46,21 @@
     "precoComDesconto": 1766,
     "imagemUrl": "https://http2.mlstatic.com/D_621426-MLA117326270324_102026-O.jpg",
     "link": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a57-5g-128gb-8gb-ram-camera-50mp-ip68-super-amoled-67-recursos-ai-cinza/p/MLB78270054"
+  },
+  {
+    "titulo": "Xiaomi Poco X7 Pro 5g 12ram /512 Gb Verde Global",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 4690,
+    "precoComDesconto": 2253,
+    "imagemUrl": "https://http2.mlstatic.com/D_810360-MLA100189072011_122025-O.jpg",
+    "link": "https://meli.la/335PtBk"
+  },
+  {
+    "titulo": "Xiaomi Poco X7 Pro 5g 12ram /512 Gb Verde Global",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 4690,
+    "precoComDesconto": 2253,
+    "imagemUrl": "https://http2.mlstatic.com/D_810360-MLA100189072011_122025-O.jpg",
+    "link": "https://www.mercadolivre.com.br/xiaomi-poco-x7-pro-5g-12ram-512-gb-verde-global/p/MLB51452747"
   }
 ]
