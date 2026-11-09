@@ -1,21 +1,5 @@
 [
   {
-    "titulo": "Perfumes Feminios \u00C1rabes Ess\u00EAncia concentrada",
-    "marketplace": "Shopee",
-    "precoOriginal": 19.8,
-    "precoComDesconto": 9.9,
-    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-8260k-mlk6fhum1mvj1f",
-    "link": "https://s.shopee.com.br/7VHne5pggi"
-  },
-  {
-    "titulo": "Perfumes Feminios \u00C1rabes Ess\u00EAncia concentrada",
-    "marketplace": "Shopee",
-    "precoOriginal": 19.8,
-    "precoComDesconto": 9.9,
-    "imagemUrl": "https://cf.shopee.com.br/file/sg-11134201-8260k-mlk6fhum1mvj1f",
-    "link": "https://s.shopee.com.br/7VHne5pggi"
-  },
-  {
     "titulo": "Kit Sortido 06 Pe\u00E7as de Roupas Infantil Menina 3 Camisetas \u002B 3 Bermudas Kit com 3 Conjuntos de Roupa Infantil Menina",
     "marketplace": "Shopee",
     "precoOriginal": 165,
@@ -62,5 +46,21 @@
     "precoComDesconto": 39.6,
     "imagemUrl": "https://cf.shopee.com.br/file/884fd157dea2f45fbb4a8527a8fdf683",
     "link": "https://s.shopee.com.br/3LPtLk6Lys"
+  },
+  {
+    "titulo": "KIT Chinelos de Beb\u00EA Menino e Menina Baby Brasil De Borracha Original Anti-Derrapante",
+    "marketplace": "Shopee",
+    "precoOriginal": 69.48,
+    "precoComDesconto": 15.98,
+    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mm6p7z8wruo717",
+    "link": "https://s.shopee.com.br/114JhmcD38"
+  },
+  {
+    "titulo": "KIT Chinelos de Beb\u00EA Menino e Menina Baby Brasil De Borracha Original Anti-Derrapante",
+    "marketplace": "Shopee",
+    "precoOriginal": 69.48,
+    "precoComDesconto": 15.98,
+    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820l4-mm6p7z8wruo717",
+    "link": "https://s.shopee.com.br/114JhmcD38"
   }
 ]
