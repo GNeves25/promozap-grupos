@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "Kit Potes Herm\u00E9ticos Vidro 800ml, 600ml, 400ml e 310ml Marmita Refrat\u00E1ria Tampa com Trava",
-    "marketplace": "Shopee",
-    "precoOriginal": 149,
-    "precoComDesconto": 39,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-820lt-mn06b3314ydea0",
-    "link": "https://s.shopee.com.br/8V7nuxP5xt"
-  },
-  {
     "titulo": "Celular Samsung Galaxy S25 Ultra 5g, 256gb, 12gb, C\u00E2m. Qu\u00E1d. Titanium Black",
     "marketplace": "Mercado Livre",
     "precoOriginal": 10499,
@@ -62,5 +54,13 @@
     "precoComDesconto": 939,
     "imagemUrl": "https://http2.mlstatic.com/D_765861-MLA95532186080_102025-O.jpg",
     "link": "https://meli.la/1zEPoe8"
+  },
+  {
+    "titulo": "Celular Samsung Galaxy A07 256gb, 8gb, C\u00E2mera 50mp, Tela 6.7 , Prote\u00E7\u00E3o Ip54, Processador 6nm - Violeta",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 1799,
+    "precoComDesconto": 939,
+    "imagemUrl": "https://http2.mlstatic.com/D_765861-MLA95532186080_102025-O.jpg",
+    "link": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a07-256gb-8gb-camera-50mp-tela-67-protecao-ip54-processador-6nm-violeta/p/MLB54964804"
   }
 ]
