@@ -1,13 +1,5 @@
 [
   {
-    "titulo": "KIT 3 Blusas Feminina Manga Longa Cacharrel Confort\u00E1vel B\u00E1sico Gola Alta",
-    "marketplace": "Shopee",
-    "precoOriginal": 148.53,
-    "precoComDesconto": 44.56,
-    "imagemUrl": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfes7idiiy9wa2",
-    "link": "https://s.shopee.com.br/6q0zqWZB0z"
-  },
-  {
     "titulo": "Smartwatch Bazik Prime S35 Ultra Max 47mm, Com Bluetooth e GPS Para Android e iOS",
     "marketplace": "Mercado Livre",
     "precoOriginal": 269.7,
@@ -48,19 +40,27 @@
     "link": "https://www.mercadolivre.com.br/relogio-smartwatch-bettdow-fb050-gps-tela-amoled-143-cinza/p/MLB69012905"
   },
   {
-    "titulo": "Rel\u00F3gio Smartwatch Bettdow Fb050 Gps Tela Amoled 1.43 Cinza",
+    "titulo": "Smartwatch Samsung Galaxy Watch 8 40mm Prateado com Bluetooth e Wi-Fi",
     "marketplace": "Mercado Livre",
-    "precoOriginal": 599,
-    "precoComDesconto": 269.1,
-    "imagemUrl": "https://http2.mlstatic.com/D_732420-MLA111132950305_052026-O.jpg",
-    "link": "https://www.mercadolivre.com.br/relogio-smartwatch-bettdow-fb050-gps-tela-amoled-143-cinza/p/MLB69012905"
+    "precoOriginal": 2999,
+    "precoComDesconto": 1364,
+    "imagemUrl": "https://http2.mlstatic.com/D_948561-MLA99497292352_112025-O.jpg",
+    "link": "https://meli.la/2p36Yxj"
   },
   {
-    "titulo": "Rel\u00F3gio Smartwatch Bettdow Fb050 Gps Tela Amoled 1.43 Cinza",
+    "titulo": "Smartwatch Samsung Galaxy Watch 8 40mm Prateado com Bluetooth e Wi-Fi",
     "marketplace": "Mercado Livre",
-    "precoOriginal": 599,
-    "precoComDesconto": 269.1,
-    "imagemUrl": "https://http2.mlstatic.com/D_732420-MLA111132950305_052026-O.jpg",
-    "link": "https://meli.la/2RJHubr"
+    "precoOriginal": 2999,
+    "precoComDesconto": 1364,
+    "imagemUrl": "https://http2.mlstatic.com/D_948561-MLA99497292352_112025-O.jpg",
+    "link": "https://www.mercadolivre.com.br/smartwatch-samsung-galaxy-watch-8-40mm-prateado-com-bluetooth-e-wi-fi/p/MLB52053574"
+  },
+  {
+    "titulo": "Smartwatch Samsung Galaxy Watch 8 40mm Prateado com Bluetooth e Wi-Fi",
+    "marketplace": "Mercado Livre",
+    "precoOriginal": 2999,
+    "precoComDesconto": 1364,
+    "imagemUrl": "https://http2.mlstatic.com/D_948561-MLA99497292352_112025-O.jpg",
+    "link": "https://meli.la/2p36Yxj"
   }
 ]
